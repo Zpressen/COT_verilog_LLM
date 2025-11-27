@@ -1,0 +1,8 @@
+Prob128_fsm_ps2/Prob128_fsm_ps2_sample01.sv:21: error: done is not a valid l-value in tb.top_module1.
+Prob128_fsm_ps2/Prob128_fsm_ps2_sample01.sv:6:      : done is declared here as wire.
+Prob128_fsm_ps2/Prob128_fsm_ps2_sample01.sv:60: error: done is not a valid l-value in tb.top_module1.
+Prob128_fsm_ps2/Prob128_fsm_ps2_sample01.sv:6:      : done is declared here as wire.
+Prob128_fsm_ps2/Prob128_fsm_ps2_sample01.sv:62: error: done is not a valid l-value in tb.top_module1.
+Prob128_fsm_ps2/Prob128_fsm_ps2_sample01.sv:6:      : done is declared here as wire.
+3 error(s) during elaboration.
+timeout: failed to run command ‘./Prob128_fsm_ps2/Prob128_fsm_ps2_sample01’: No such file or directory

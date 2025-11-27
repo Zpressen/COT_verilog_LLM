@@ -1,0 +1,9 @@
+VCD info: dumpfile wave.vcd opened for output.
+../dataset_spec-to-rtl/Prob051_gates4_test.sv:35: $finish called at 1170 (1ps)
+Hint: Output 'out_and' has 103 mismatches. First mismatch occurred at time 30.
+Hint: Output 'out_or' has 106 mismatches. First mismatch occurred at time 40.
+Hint: Output 'out_xor' has 102 mismatches. First mismatch occurred at time 30.
+Hint: Total mismatched samples is 209 out of 234 samples
+
+Simulation finished at 1170 ps
+Mismatches: 209 in 234 samples

@@ -1,0 +1,7 @@
+VCD info: dumpfile wave.vcd opened for output.
+../dataset_code-complete-iccad2023/Prob085_shift4_test.sv:76: $finish called at 2136 (1ps)
+Hint: Output 'q' has 61 mismatches. First mismatch occurred at time 40.
+Hint: Total mismatched samples is 61 out of 427 samples
+
+Simulation finished at 2136 ps
+Mismatches: 61 in 427 samples

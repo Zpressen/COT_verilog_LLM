@@ -1,0 +1,14 @@
+Prob153_gshare/Prob153_gshare_sample01.sv:51: error: predict_taken is not a valid l-value in tb.top_module1.
+Prob153_gshare/Prob153_gshare_sample01.sv:7:      : predict_taken is declared here as wire.
+Prob153_gshare/Prob153_gshare_sample01.sv:52: error: predict_history is not a valid l-value in tb.top_module1.
+Prob153_gshare/Prob153_gshare_sample01.sv:8:      : predict_history is declared here as wire.
+../dataset_spec-to-rtl/Prob153_gshare_test.sv:236: warning: Port 4 (predict_pc) of TopModule expects 1 bits, got 7.
+../dataset_spec-to-rtl/Prob153_gshare_test.sv:236:        : Pruning 6 high bits of the expression.
+../dataset_spec-to-rtl/Prob153_gshare_test.sv:236: warning: Port 6 (predict_history) of TopModule expects 1 bits, got 7.
+../dataset_spec-to-rtl/Prob153_gshare_test.sv:236:        : Padding 6 high bits of the expression.
+../dataset_spec-to-rtl/Prob153_gshare_test.sv:236: warning: Port 10 (train_history) of TopModule expects 1 bits, got 7.
+../dataset_spec-to-rtl/Prob153_gshare_test.sv:236:        : Pruning 6 high bits of the expression.
+../dataset_spec-to-rtl/Prob153_gshare_test.sv:236: warning: Port 11 (train_pc) of TopModule expects 1 bits, got 7.
+../dataset_spec-to-rtl/Prob153_gshare_test.sv:236:        : Pruning 6 high bits of the expression.
+2 error(s) during elaboration.
+timeout: failed to run command ‘./Prob153_gshare/Prob153_gshare_sample01’: No such file or directory

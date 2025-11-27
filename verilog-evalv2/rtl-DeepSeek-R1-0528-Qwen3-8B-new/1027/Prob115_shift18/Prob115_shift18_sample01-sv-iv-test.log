@@ -1,0 +1,7 @@
+VCD info: dumpfile wave.vcd opened for output.
+../dataset_spec-to-rtl/Prob115_shift18_test.sv:75: $finish called at 20206 (1ps)
+Hint: Output 'q' has 3180 mismatches. First mismatch occurred at time 30.
+Hint: Total mismatched samples is 3180 out of 4041 samples
+
+Simulation finished at 20206 ps
+Mismatches: 3180 in 4041 samples

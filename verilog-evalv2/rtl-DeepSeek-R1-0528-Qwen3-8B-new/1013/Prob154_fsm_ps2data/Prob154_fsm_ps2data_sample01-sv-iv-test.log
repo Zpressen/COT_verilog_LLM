@@ -1,0 +1,6 @@
+Prob154_fsm_ps2data/Prob154_fsm_ps2data_sample01.sv:35: sorry: constant selects in always_* processes are not currently supported (all bits will be included).
+Prob154_fsm_ps2data/Prob154_fsm_ps2data_sample01.sv:62: error: part select shift_reg[8:16] is out of order.
+Prob154_fsm_ps2data/Prob154_fsm_ps2data_sample01.sv:64: error: part select shift_reg[8:16] is out of order.
+Prob154_fsm_ps2data/Prob154_fsm_ps2data_sample01.sv:66: error: part select shift_reg[8:16] is out of order.
+3 error(s) during elaboration.
+timeout: failed to run command ‘./Prob154_fsm_ps2data/Prob154_fsm_ps2data_sample01’: No such file or directory

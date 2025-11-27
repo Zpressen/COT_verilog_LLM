@@ -1,0 +1,3 @@
+Prob098_circuit7/Prob098_circuit7_sample01.sv:8: error: 'q' has already been declared in this scope.
+Prob098_circuit7/Prob098_circuit7_sample01.sv:5:      : It was declared here as a net.
+timeout: failed to run command ‘./Prob098_circuit7/Prob098_circuit7_sample01’: No such file or directory

@@ -1,0 +1,9 @@
+Prob124_rule110/Prob124_rule110_sample01.sv:17: syntax error
+Prob124_rule110/Prob124_rule110_sample01.sv:17: error: Invalid module instantiation
+Prob124_rule110/Prob124_rule110_sample01.sv:19: syntax error
+Prob124_rule110/Prob124_rule110_sample01.sv:19: error: Invalid module instantiation
+Prob124_rule110/Prob124_rule110_sample01.sv:22: syntax error
+Prob124_rule110/Prob124_rule110_sample01.sv:22: error: Invalid module instantiation
+Prob124_rule110/Prob124_rule110_sample01.sv:24: syntax error
+Prob124_rule110/Prob124_rule110_sample01.sv:24: error: Invalid module instantiation
+timeout: failed to run command ‘./Prob124_rule110/Prob124_rule110_sample01’: No such file or directory

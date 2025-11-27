@@ -1,0 +1,8 @@
+VCD info: dumpfile wave.vcd opened for output.
+../dataset_spec-to-rtl/Prob145_circuit8_test.sv:45: $finish called at 1200 (1ps)
+Hint: Output 'p' has 75 mismatches. First mismatch occurred at time 90.
+Hint: Output 'q' has 36 mismatches. First mismatch occurred at time 420.
+Hint: Total mismatched samples is 85 out of 240 samples
+
+Simulation finished at 1200 ps
+Mismatches: 85 in 240 samples

@@ -1,0 +1,12 @@
+Prob119_fsm3/Prob119_fsm3_sample01.sv:15: error: Could not find variable ``next_state'' in ``tb.top_module1''
+Prob119_fsm3/Prob119_fsm3_sample01.sv:16: error: Could not find variable ``next_state'' in ``tb.top_module1''
+Prob119_fsm3/Prob119_fsm3_sample01.sv:18: error: Could not find variable ``next_state'' in ``tb.top_module1''
+Prob119_fsm3/Prob119_fsm3_sample01.sv:19: error: Could not find variable ``next_state'' in ``tb.top_module1''
+Prob119_fsm3/Prob119_fsm3_sample01.sv:21: error: Could not find variable ``next_state'' in ``tb.top_module1''
+Prob119_fsm3/Prob119_fsm3_sample01.sv:22: error: Could not find variable ``next_state'' in ``tb.top_module1''
+Prob119_fsm3/Prob119_fsm3_sample01.sv:24: error: Could not find variable ``next_state'' in ``tb.top_module1''
+Prob119_fsm3/Prob119_fsm3_sample01.sv:25: error: Could not find variable ``next_state'' in ``tb.top_module1''
+Prob119_fsm3/Prob119_fsm3_sample01.sv:26: error: Could not find variable ``next_state'' in ``tb.top_module1''
+Prob119_fsm3/Prob119_fsm3_sample01.sv:40: error: Unable to bind wire/reg/memory `next_state' in `tb.top_module1'
+10 error(s) during elaboration.
+timeout: failed to run command ‘./Prob119_fsm3/Prob119_fsm3_sample01’: No such file or directory

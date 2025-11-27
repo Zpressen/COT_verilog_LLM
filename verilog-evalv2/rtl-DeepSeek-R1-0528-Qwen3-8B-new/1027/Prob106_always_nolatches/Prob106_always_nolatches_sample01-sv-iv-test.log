@@ -1,0 +1,10 @@
+VCD info: dumpfile wave.vcd opened for output.
+../dataset_spec-to-rtl/Prob106_always_nolatches_test.sv:43: $finish called at 150100 (1ps)
+Hint: Output 'left' has 5 mismatches. First mismatch occurred at time 40.
+Hint: Output 'down' has 4 mismatches. First mismatch occurred at time 70.
+Hint: Output 'right' has 4 mismatches. First mismatch occurred at time 70.
+Hint: Output 'up' has 5 mismatches. First mismatch occurred at time 40.
+Hint: Total mismatched samples is 9 out of 30020 samples
+
+Simulation finished at 150100 ps
+Mismatches: 9 in 30020 samples

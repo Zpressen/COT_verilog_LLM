@@ -1,0 +1,11 @@
+Prob030_popcount255/Prob030_popcount255_sample01.sv:18: error: part select in[248:255] is out of order.
+Prob030_popcount255/Prob030_popcount255_sample01.sv:31: warning: ignoring out of bounds l-value array access sum[8].
+Prob030_popcount255/Prob030_popcount255_sample01.sv:32: warning: ignoring out of bounds l-value array access sum[9].
+Prob030_popcount255/Prob030_popcount255_sample01.sv:33: warning: ignoring out of bounds l-value array access sum[10].
+Prob030_popcount255/Prob030_popcount255_sample01.sv:34: warning: ignoring out of bounds l-value array access sum[11].
+Prob030_popcount255/Prob030_popcount255_sample01.sv:36: warning: ignoring out of bounds l-value array access sum[12].
+Prob030_popcount255/Prob030_popcount255_sample01.sv:37: warning: ignoring out of bounds l-value array access sum[13].
+Prob030_popcount255/Prob030_popcount255_sample01.sv:39: warning: ignoring out of bounds l-value array access sum[14].
+Prob030_popcount255/Prob030_popcount255_sample01.sv:42: warning: returning 'bx for out of bounds array access sum[14].
+1 error(s) during elaboration.
+timeout: failed to run command ‘./Prob030_popcount255/Prob030_popcount255_sample01’: No such file or directory

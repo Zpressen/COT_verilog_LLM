@@ -1,0 +1,6 @@
+Prob028_m2014_q4a/Prob028_m2014_q4a_sample01.sv:10: error: q is not a valid l-value in tb.top_module1.
+Prob028_m2014_q4a/Prob028_m2014_q4a_sample01.sv:5:      : q is declared here as wire.
+Prob028_m2014_q4a/Prob028_m2014_q4a_sample01.sv:12: error: q is not a valid l-value in tb.top_module1.
+Prob028_m2014_q4a/Prob028_m2014_q4a_sample01.sv:5:      : q is declared here as wire.
+2 error(s) during elaboration.
+timeout: failed to run command ‘./Prob028_m2014_q4a/Prob028_m2014_q4a_sample01’: No such file or directory

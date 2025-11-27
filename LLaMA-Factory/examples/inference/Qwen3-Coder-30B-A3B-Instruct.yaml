@@ -1,0 +1,8 @@
+model_name_or_path: /home/tanhao/Qwen3-Coder-30B-A3B-Instruct
+template: qwen3
+infer_backend: vllm
+trust_remote_code: true
+vllm_config:
+  gpu_memory_utilization: 0.9
+  tensor_parallel_size: 2
+  enable_reasoning: true

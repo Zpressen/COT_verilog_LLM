@@ -1,0 +1,9 @@
+Prob146_fsm_serialdata/Prob146_fsm_serialdata_sample01.sv:45: sorry: constant selects in always_* processes are not currently supported (all bits will be included).
+VCD info: dumpfile wave.vcd opened for output.
+../dataset_spec-to-rtl/Prob146_fsm_serialdata_test.sv:45: $finish called at 4526 (1ps)
+Hint: Output 'out_byte' has 34 mismatches. First mismatch occurred at time 530.
+Hint: Output 'done' has 76 mismatches. First mismatch occurred at time 110.
+Hint: Total mismatched samples is 81 out of 905 samples
+
+Simulation finished at 4526 ps
+Mismatches: 81 in 905 samples

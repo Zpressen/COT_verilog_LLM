@@ -1,0 +1,11 @@
+2025.0922  使用50mb的completed_cot_dataset.json对Qwen3-30B-A3B-Thinking-2507进行lora微调
+2025.0924  使用50mb的completed_cot_dataset.json对DeepSeek-R1-0528-Qwen3-8B进行lora微调
+2025.1013  使用70mb的completed_agent_cot_dataset.json对DeepSeek-R1-0528-Qwen3-8B进行lora微调
+2025.1027  使用190mb的formal_agent_dataset,formal_agent_dataset2对DeepSeek-R1-0528-Qwen3-8B进行lora微调2轮
+2025.1029  使用190mb的formal_agent_dataset,formal_agent_dataset2对DeepSeek-R1-0528-Qwen3-8B进行lora微调4轮
+2025.1031  使用30mb的formal_agent_dataset对DeepSeek-R1-0528-Qwen3-8B进行lora微调5轮
+2025.1101  使用200mb的completed_agent_cot_dataset和formal_agent_dataset3进行微调
+2025.1101-2  使用140mb的completed_agent_cot_dataset和formal_agent_dataset4进行微调
+2025.1102  使用100mb的formal_agent_dataset和formal_agent_dataset5进行微调3轮
+2025.1103  使用100mb的formal_agent_dataset和formal_agent_dataset5进行微调5轮，然后逐轮测试进行观察
+2025.1105  使用190mb的formal_agent_dataset,formal_agent_dataset2进行微调5轮，然后逐轮测试进行观察

@@ -1,0 +1,7 @@
+VCD info: dumpfile wave.vcd opened for output.
+../dataset_code-complete-iccad2023/Prob066_edgecapture_test.sv:86: $finish called at 1330 (1ps)
+Hint: Output 'out' has no mismatches.
+Hint: Total mismatched samples is 0 out of 266 samples
+
+Simulation finished at 1330 ps
+Mismatches: 0 in 266 samples

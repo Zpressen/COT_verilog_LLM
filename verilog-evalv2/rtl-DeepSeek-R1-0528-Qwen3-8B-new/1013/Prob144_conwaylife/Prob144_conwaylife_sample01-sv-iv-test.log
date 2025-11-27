@@ -1,0 +1,12 @@
+Prob144_conwaylife/Prob144_conwaylife_sample01.sv:18: warning: Static variable initialization requires explicit lifetime in this context.
+Prob144_conwaylife/Prob144_conwaylife_sample01.sv:19: warning: Static variable initialization requires explicit lifetime in this context.
+Prob144_conwaylife/Prob144_conwaylife_sample01.sv:22: warning: Static variable initialization requires explicit lifetime in this context.
+Prob144_conwaylife/Prob144_conwaylife_sample01.sv:25: syntax error
+Prob144_conwaylife/Prob144_conwaylife_sample01.sv:25: error: Malformed statement
+Prob144_conwaylife/Prob144_conwaylife_sample01.sv:28: syntax error
+Prob144_conwaylife/Prob144_conwaylife_sample01.sv:28: Syntax in assignment statement l-value.
+Prob144_conwaylife/Prob144_conwaylife_sample01.sv:29: syntax error
+Prob144_conwaylife/Prob144_conwaylife_sample01.sv:29: Syntax in assignment statement l-value.
+Prob144_conwaylife/Prob144_conwaylife_sample01.sv:30: syntax error
+Prob144_conwaylife/Prob144_conwaylife_sample01.sv:30: Syntax in assignment statement l-value.
+timeout: failed to run command ‘./Prob144_conwaylife/Prob144_conwaylife_sample01’: No such file or directory

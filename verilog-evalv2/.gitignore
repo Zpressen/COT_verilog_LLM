@@ -1,0 +1,10 @@
+#=========================================================================
+# Git Ignore Files
+#=========================================================================
+# We explicitly ignore a default rtl-DeepSeek-R1-0528-Qwen3-8B-verilog-q-p1-DeepSeek-R1-0528-Qwen3-8B-verilog-p1-DeepSeek-R1-0528-Qwen3-8B-verilog-p5-DeepSeek-R1-0528-Qwen3-8B-p5-DeepSeek-R1-0528-Qwen3-8B-p1 directory and the autoconf
+# generated autom4te.cache directory. This makes it easy to do a clean
+# rtl-DeepSeek-R1-0528-Qwen3-8B-verilog-q-p1-DeepSeek-R1-0528-Qwen3-8B-verilog-p1-DeepSeek-R1-0528-Qwen3-8B-verilog-p5-DeepSeek-R1-0528-Qwen3-8B-p5-DeepSeek-R1-0528-Qwen3-8B-p1 under the source directory and still have it appear clean to git.
+
+build-DeepSeek-R1-0528-Qwen3-8B-p1/
+autom4te.cache/
+

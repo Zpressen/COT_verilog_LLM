@@ -1,0 +1,34 @@
+Prob125_kmap3/Prob125_kmap3_sample01.sv:12: error: out is not a valid l-value in tb.top_module1.
+Prob125_kmap3/Prob125_kmap3_sample01.sv:7:      : out is declared here as wire.
+Prob125_kmap3/Prob125_kmap3_sample01.sv:13: error: out is not a valid l-value in tb.top_module1.
+Prob125_kmap3/Prob125_kmap3_sample01.sv:7:      : out is declared here as wire.
+Prob125_kmap3/Prob125_kmap3_sample01.sv:14: error: out is not a valid l-value in tb.top_module1.
+Prob125_kmap3/Prob125_kmap3_sample01.sv:7:      : out is declared here as wire.
+Prob125_kmap3/Prob125_kmap3_sample01.sv:15: error: out is not a valid l-value in tb.top_module1.
+Prob125_kmap3/Prob125_kmap3_sample01.sv:7:      : out is declared here as wire.
+Prob125_kmap3/Prob125_kmap3_sample01.sv:16: error: out is not a valid l-value in tb.top_module1.
+Prob125_kmap3/Prob125_kmap3_sample01.sv:7:      : out is declared here as wire.
+Prob125_kmap3/Prob125_kmap3_sample01.sv:17: error: out is not a valid l-value in tb.top_module1.
+Prob125_kmap3/Prob125_kmap3_sample01.sv:7:      : out is declared here as wire.
+Prob125_kmap3/Prob125_kmap3_sample01.sv:18: error: out is not a valid l-value in tb.top_module1.
+Prob125_kmap3/Prob125_kmap3_sample01.sv:7:      : out is declared here as wire.
+Prob125_kmap3/Prob125_kmap3_sample01.sv:19: error: out is not a valid l-value in tb.top_module1.
+Prob125_kmap3/Prob125_kmap3_sample01.sv:7:      : out is declared here as wire.
+Prob125_kmap3/Prob125_kmap3_sample01.sv:20: error: out is not a valid l-value in tb.top_module1.
+Prob125_kmap3/Prob125_kmap3_sample01.sv:7:      : out is declared here as wire.
+Prob125_kmap3/Prob125_kmap3_sample01.sv:21: error: out is not a valid l-value in tb.top_module1.
+Prob125_kmap3/Prob125_kmap3_sample01.sv:7:      : out is declared here as wire.
+Prob125_kmap3/Prob125_kmap3_sample01.sv:22: error: out is not a valid l-value in tb.top_module1.
+Prob125_kmap3/Prob125_kmap3_sample01.sv:7:      : out is declared here as wire.
+Prob125_kmap3/Prob125_kmap3_sample01.sv:23: error: out is not a valid l-value in tb.top_module1.
+Prob125_kmap3/Prob125_kmap3_sample01.sv:7:      : out is declared here as wire.
+Prob125_kmap3/Prob125_kmap3_sample01.sv:24: error: out is not a valid l-value in tb.top_module1.
+Prob125_kmap3/Prob125_kmap3_sample01.sv:7:      : out is declared here as wire.
+Prob125_kmap3/Prob125_kmap3_sample01.sv:25: error: out is not a valid l-value in tb.top_module1.
+Prob125_kmap3/Prob125_kmap3_sample01.sv:7:      : out is declared here as wire.
+Prob125_kmap3/Prob125_kmap3_sample01.sv:26: error: out is not a valid l-value in tb.top_module1.
+Prob125_kmap3/Prob125_kmap3_sample01.sv:7:      : out is declared here as wire.
+Prob125_kmap3/Prob125_kmap3_sample01.sv:27: error: out is not a valid l-value in tb.top_module1.
+Prob125_kmap3/Prob125_kmap3_sample01.sv:7:      : out is declared here as wire.
+16 error(s) during elaboration.
+timeout: failed to run command ‘./Prob125_kmap3/Prob125_kmap3_sample01’: No such file or directory

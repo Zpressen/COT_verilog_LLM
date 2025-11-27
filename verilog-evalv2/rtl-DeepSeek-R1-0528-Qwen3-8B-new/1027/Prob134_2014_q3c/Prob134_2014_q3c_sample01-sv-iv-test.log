@@ -1,0 +1,8 @@
+VCD info: dumpfile wave.vcd opened for output.
+../dataset_spec-to-rtl/Prob134_2014_q3c_test.sv:18: $finish called at 1001 (1ps)
+Hint: Output 'Y0' has 55 mismatches. First mismatch occurred at time 10.
+Hint: Output 'z' has 51 mismatches. First mismatch occurred at time 10.
+Hint: Total mismatched samples is 79 out of 200 samples
+
+Simulation finished at 1001 ps
+Mismatches: 79 in 200 samples

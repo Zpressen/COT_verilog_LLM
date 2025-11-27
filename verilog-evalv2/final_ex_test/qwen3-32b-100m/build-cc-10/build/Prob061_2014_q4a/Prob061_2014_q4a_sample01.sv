@@ -1,0 +1,22 @@
+
+
+module TopModule (
+  input clk,
+  input w,
+  input R,
+  input E,
+  input L,
+  output reg Q
+);
+
+always_ff @(posedge clk) begin
+    if (L)
+        Q <= R;
+    else if (E)
+        Q <= w;
+    else
+        Q <= Q;
+end
+
+endmodule
+

@@ -1,0 +1,7 @@
+VCD info: dumpfile wave.vcd opened for output.
+../dataset_spec-to-rtl/Prob040_count10_test.sv:62: $finish called at 2196 (1ps)
+Hint: Output 'q' has 328 mismatches. First mismatch occurred at time 170.
+Hint: Total mismatched samples is 328 out of 439 samples
+
+Simulation finished at 2196 ps
+Mismatches: 328 in 439 samples

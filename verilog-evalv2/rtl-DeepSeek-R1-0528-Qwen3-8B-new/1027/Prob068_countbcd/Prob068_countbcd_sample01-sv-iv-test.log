@@ -1,0 +1,9 @@
+VCD info: dumpfile wave.vcd opened for output.
+Hint: Your reset doesn't seem to be working.
+../dataset_spec-to-rtl/Prob068_countbcd_test.sv:68: $finish called at 199026 (1ps)
+Hint: Output 'ena' has 9254 mismatches. First mismatch occurred at time 160.
+Hint: Output 'q' has 39804 mismatches. First mismatch occurred at time 10.
+Hint: Total mismatched samples is 39804 out of 39805 samples
+
+Simulation finished at 199026 ps
+Mismatches: 39804 in 39805 samples

@@ -1,0 +1,47 @@
+### model
+model_name_or_path: /home/tanhao/.cache/huggingface/hub/models--deepseek-ai--DeepSeek-R1-0528-Qwen3-8B/snapshots/6e8885a6ff5c1dc5201574c8fd700323f23c25fa
+trust_remote_code: true
+
+### method
+stage: sft
+do_train: true
+finetuning_type: lora
+lora_rank: 32
+lora_alpha: 64
+lora_dropout: 0.05
+lora_target: all          # "q_proj,k_proj,v_proj,o_proj,gate_proj,up_proj,down_proj"
+deepspeed: examples/deepspeed/ds_z3_config.json  # choices: [ds_z0_config.json, ds_z2_config.json, ds_z3_config.json]
+
+### dataset
+dataset: dataset_no_cot
+template: deepseek
+cutoff_len: 6000
+max_samples: 100000
+overwrite_cache: true
+preprocessing_num_workers: 32
+
+### output
+output_dir: /home/tanhao/project1/src/checkpoints_DeepSeek-R1-0528-Qwen3-8B-verilog/deepseek-1113
+logging_steps: 5
+save_steps: 500
+plot_loss: true
+overwrite_output_dir: true
+save_only_model: false
+report_to: wandb  # choices: [none, wandb, tensorboard, swanlab, mlflow]
+
+### train
+save_strategy: epoch          # ✅ 改成按 epoch 保存
+per_device_train_batch_size: 2
+gradient_accumulation_steps: 16
+learning_rate: 8e-6
+num_train_epochs: 3
+lr_scheduler_type: cosine
+warmup_ratio: 0.1
+bf16: true
+ddp_timeout: 180000000
+resume_from_checkpoint: null
+enable_thinking: true
+gradient_checkpointing: true
+group_by_length: false
+packing: false
+max_grad_norm: 1.0

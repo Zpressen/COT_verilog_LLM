@@ -1,0 +1,4 @@
+Prob141_count_clock/Prob141_count_clock_sample01.sv:35: error: Concatenation operand "(hh_reg)-('sd1)" has indefinite width.
+Prob141_count_clock/Prob141_count_clock_sample01.sv:35: error: Unable to elaborate r-value: {2'd0, (hh_reg)-('sd1)}
+2 error(s) during elaboration.
+timeout: failed to run command ‘./Prob141_count_clock/Prob141_count_clock_sample01’: No such file or directory

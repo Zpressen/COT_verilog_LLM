@@ -1,0 +1,7 @@
+VCD info: dumpfile wave.vcd opened for output.
+../dataset_spec-to-rtl/Prob133_2014_q3fsm_test.sv:59: $finish called at 7071 (1ps)
+Hint: Output 'z' has 370 mismatches. First mismatch occurred at time 80.
+Hint: Total mismatched samples is 370 out of 1414 samples
+
+Simulation finished at 7071 ps
+Mismatches: 370 in 1414 samples

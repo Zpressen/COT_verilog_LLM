@@ -1,0 +1,7 @@
+VCD info: dumpfile wave.vcd opened for output.
+../dataset_spec-to-rtl/Prob126_circuit6_test.sv:35: $finish called at 565 (1ps)
+Hint: Output 'q' has 37 mismatches. First mismatch occurred at time 20.
+Hint: Total mismatched samples is 37 out of 113 samples
+
+Simulation finished at 565 ps
+Mismatches: 37 in 113 samples

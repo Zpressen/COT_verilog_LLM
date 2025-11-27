@@ -1,0 +1,11 @@
+Prob108_rule90/Prob108_rule90_sample01.sv:15: warning: Constant bit select [-1] is before vector q[511:0].
+Prob108_rule90/Prob108_rule90_sample01.sv:15:        : Replacing select with a constant 1'bx.
+Prob108_rule90/Prob108_rule90_sample01.sv:15: warning: Constant bit select [512] is after vector q[511:0].
+Prob108_rule90/Prob108_rule90_sample01.sv:15:        : Replacing select with a constant 1'bx.
+VCD info: dumpfile wave.vcd opened for output.
+../dataset_code-complete-iccad2023/Prob108_rule90_test.sv:75: $finish called at 35606 (1ps)
+Hint: Output 'q' has no mismatches.
+Hint: Total mismatched samples is 0 out of 7121 samples
+
+Simulation finished at 35606 ps
+Mismatches: 0 in 7121 samples

@@ -1,0 +1,4 @@
+Prob031_dff/Prob031_dff_sample01.sv:9: error: q is not a valid l-value in tb.top_module1.
+Prob031_dff/Prob031_dff_sample01.sv:5:      : q is declared here as wire.
+1 error(s) during elaboration.
+timeout: failed to run command ‘./Prob031_dff/Prob031_dff_sample01’: No such file or directory

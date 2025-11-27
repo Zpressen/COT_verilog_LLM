@@ -1,0 +1,7 @@
+VCD info: dumpfile wave.vcd opened for output.
+../dataset_spec-to-rtl/Prob111_fsm2s_test.sv:72: $finish called at 1206 (1ps)
+Hint: Output 'out' has 112 mismatches. First mismatch occurred at time 20.
+Hint: Total mismatched samples is 112 out of 241 samples
+
+Simulation finished at 1206 ps
+Mismatches: 112 in 241 samples

@@ -1,0 +1,68 @@
+Question:
+Implement a hardware module named TopModule with the following interface.
+All input and output ports are one bit unless otherwise specified.
+
+ - parameter nbits
+ - input clk
+ - input reset
+ - input in_ (n bits)
+ - output out (n bits)
+
+The module should implement an n-bit registered incrementer where the bitwidth is specified by the parameter nbits.
+The n-bit input is first registered and then incremented by one on the next cycle.
+
+Assume all sequential logic is triggered on the positive edge of the clock.
+The reset input is active high synchronous and should reset the output to zero.
+
+Enclose your code with [BEGIN] and [DONE]. Only output the code snippet
+and do NOT output anything else.
+
+Answer:
+<think>
+To implement an n-bit registered incrementer with synchronous active high reset that resets the output to zero, I need to design both sequential and combinational logic carefully.
+
+First, let's clarify the requirements:
+ - The module has an n-bit input in_ and an n-bit output out.
+ - There is a clock clk and a reset reset.
+ - On each positive clock edge, if reset is high, the output out should be set to zero.
+ - Otherwise, the input in_ should be registered (stored in a flip-flop), and then out should be set to the registered input incremented by one.
+ - All sequential logic is triggered on the positive edge of clk.
+ - The reset is synchronous and active high.
+ Now, let's break this down:
+1.Sequential Logic:
+I need a register to store the input in_. Let's call this register reg_out.
+On each positive clock edge:
+If reset is high, I must set reg_out to a value such that when incremented by one, out becomes zero.
+Since out = reg_out + 1, for out to be zero (all zeros), reg_out must be all ones (i.e., {(nbits){1'b1}}). This is because adding one to all ones in n bits results in zero due to wrap-around.
+Example for n=2: all ones is 2'b11. Adding one gives 2'b11 + 1 = 3'b100, which truncates to 2'b00 (zero) for a 2-bit output.
+Example for n=1: all ones is 1'b1. Adding one gives 1'b1 + 1 = 2'b10, which truncates to 1'b0 for a 1-bit output.
+If reset is low, set reg_out to the current value of in_.
+2.Combinational Logic:
+The output out should always be equal to reg_out + 1.
+Since addition in Verilog handles wrap-around automatically for unsigned numbers, this will work correctly for any n-bit value.
+3.Module Interface:
+The module must match the given interface:
+Parameter: nbits
+Inputs: clk (logic), reset (logic), in_ (logic [nbits-1:0])
+Output: out (logic [nbits-1:0])
+All signals should use the logic type as per modern SystemVerilog practices.
+4.Edge Cases:
+When reset is high, reg_out should be set to all ones, ensuring out = reg_out + 1 = zero.
+When reset is low, reg_out captures in_, and out = reg_out + 1.
+For any n-bit value of in_, adding one will correctly compute the incremented value with wrap-around (e.g., for n=2, in_ = 2'b11 results in out = 2'b00).
+
+Now, let's proceed to write the code based on this reasoning.
+</think>
+[BEGIN]
+module TopModule
+(
+  input  logic [7:0] in_,
+  output logic [7:0] out
+);
+
+  // Combinational logic
+
+  assign out = in_ + 1;
+
+endmodule
+[DONE]

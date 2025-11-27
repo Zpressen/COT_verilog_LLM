@@ -1,0 +1,3 @@
+Prob108_rule90/Prob108_rule90_sample01.sv:24: syntax error
+Prob108_rule90/Prob108_rule90_sample01.sv:24: error: Malformed statement
+timeout: failed to run command ‘./Prob108_rule90/Prob108_rule90_sample01’: No such file or directory

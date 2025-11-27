@@ -1,0 +1,8 @@
+VCD info: dumpfile wave.vcd opened for output.
+Hint: Your reset should be synchronous, but doesn't appear to be.
+../dataset_spec-to-rtl/Prob035_count1to10_test.sv:62: $finish called at 2196 (1ps)
+Hint: Output 'q' has 336 mismatches. First mismatch occurred at time 55.
+Hint: Total mismatched samples is 336 out of 439 samples
+
+Simulation finished at 2196 ps
+Mismatches: 336 in 439 samples

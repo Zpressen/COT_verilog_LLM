@@ -1,0 +1,3 @@
+WARNING: testbench.v:31: $readmemh(reference.txt): Not enough words in the file for the requested range [0:4000].
+===========Your Design Passed===========
+testbench.v:48: $finish called at 40035000 (1ps)

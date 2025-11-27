@@ -1,0 +1,4 @@
+Prob154_fsm_ps2data/Prob154_fsm_ps2data_sample01.sv:28: error: done is not a valid l-value in tb.top_module1.
+Prob154_fsm_ps2data/Prob154_fsm_ps2data_sample01.sv:7:      : done is declared here as wire.
+1 error(s) during elaboration.
+timeout: failed to run command ‘./Prob154_fsm_ps2data/Prob154_fsm_ps2data_sample01’: No such file or directory

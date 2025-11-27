@@ -1,0 +1,8 @@
+Prob138_2012_q2fsm/Prob138_2012_q2fsm_sample01.sv:24: error: This assignment requires an explicit cast.
+Prob138_2012_q2fsm/Prob138_2012_q2fsm_sample01.sv:25: error: This assignment requires an explicit cast.
+Prob138_2012_q2fsm/Prob138_2012_q2fsm_sample01.sv:26: error: This assignment requires an explicit cast.
+Prob138_2012_q2fsm/Prob138_2012_q2fsm_sample01.sv:27: error: This assignment requires an explicit cast.
+Prob138_2012_q2fsm/Prob138_2012_q2fsm_sample01.sv:28: error: This assignment requires an explicit cast.
+Prob138_2012_q2fsm/Prob138_2012_q2fsm_sample01.sv:29: error: This assignment requires an explicit cast.
+6 error(s) during elaboration.
+timeout: failed to run command ‘./Prob138_2012_q2fsm/Prob138_2012_q2fsm_sample01’: No such file or directory

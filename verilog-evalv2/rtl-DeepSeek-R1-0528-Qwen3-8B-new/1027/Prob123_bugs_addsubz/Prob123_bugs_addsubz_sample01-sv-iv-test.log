@@ -1,0 +1,8 @@
+VCD info: dumpfile wave.vcd opened for output.
+../dataset_spec-to-rtl/Prob123_bugs_addsubz_test.sv:57: $finish called at 590 (1ps)
+Hint: Output 'out' has no mismatches.
+Hint: Output 'result_is_zero' has 53 mismatches. First mismatch occurred at time 40.
+Hint: Total mismatched samples is 53 out of 118 samples
+
+Simulation finished at 590 ps
+Mismatches: 53 in 118 samples

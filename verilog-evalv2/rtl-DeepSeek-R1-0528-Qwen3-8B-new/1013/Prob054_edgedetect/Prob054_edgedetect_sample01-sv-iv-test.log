@@ -1,0 +1,18 @@
+Prob054_edgedetect/Prob054_edgedetect_sample01.sv:17: error: Unable to bind wire/reg/memory `reset' in `tb.top_module1.bit_detector[0]'
+Prob054_edgedetect/Prob054_edgedetect_sample01.sv:17: error: Unable to elaborate condition expression.
+Prob054_edgedetect/Prob054_edgedetect_sample01.sv:17: error: Unable to bind wire/reg/memory `reset' in `tb.top_module1.bit_detector[1]'
+Prob054_edgedetect/Prob054_edgedetect_sample01.sv:17: error: Unable to elaborate condition expression.
+Prob054_edgedetect/Prob054_edgedetect_sample01.sv:17: error: Unable to bind wire/reg/memory `reset' in `tb.top_module1.bit_detector[2]'
+Prob054_edgedetect/Prob054_edgedetect_sample01.sv:17: error: Unable to elaborate condition expression.
+Prob054_edgedetect/Prob054_edgedetect_sample01.sv:17: error: Unable to bind wire/reg/memory `reset' in `tb.top_module1.bit_detector[3]'
+Prob054_edgedetect/Prob054_edgedetect_sample01.sv:17: error: Unable to elaborate condition expression.
+Prob054_edgedetect/Prob054_edgedetect_sample01.sv:17: error: Unable to bind wire/reg/memory `reset' in `tb.top_module1.bit_detector[4]'
+Prob054_edgedetect/Prob054_edgedetect_sample01.sv:17: error: Unable to elaborate condition expression.
+Prob054_edgedetect/Prob054_edgedetect_sample01.sv:17: error: Unable to bind wire/reg/memory `reset' in `tb.top_module1.bit_detector[5]'
+Prob054_edgedetect/Prob054_edgedetect_sample01.sv:17: error: Unable to elaborate condition expression.
+Prob054_edgedetect/Prob054_edgedetect_sample01.sv:17: error: Unable to bind wire/reg/memory `reset' in `tb.top_module1.bit_detector[6]'
+Prob054_edgedetect/Prob054_edgedetect_sample01.sv:17: error: Unable to elaborate condition expression.
+Prob054_edgedetect/Prob054_edgedetect_sample01.sv:17: error: Unable to bind wire/reg/memory `reset' in `tb.top_module1.bit_detector[7]'
+Prob054_edgedetect/Prob054_edgedetect_sample01.sv:17: error: Unable to elaborate condition expression.
+16 error(s) during elaboration.
+timeout: failed to run command ‘./Prob054_edgedetect/Prob054_edgedetect_sample01’: No such file or directory

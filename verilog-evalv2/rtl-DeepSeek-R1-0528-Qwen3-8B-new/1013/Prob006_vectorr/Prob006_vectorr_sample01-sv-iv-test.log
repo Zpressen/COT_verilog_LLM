@@ -1,0 +1,7 @@
+VCD info: dumpfile wave.vcd opened for output.
+../dataset_spec-to-rtl/Prob006_vectorr_test.sv:43: $finish called at 1090 (1ps)
+Hint: Output 'out' has 203 mismatches. First mismatch occurred at time 20.
+Hint: Total mismatched samples is 203 out of 218 samples
+
+Simulation finished at 1090 ps
+Mismatches: 203 in 218 samples
