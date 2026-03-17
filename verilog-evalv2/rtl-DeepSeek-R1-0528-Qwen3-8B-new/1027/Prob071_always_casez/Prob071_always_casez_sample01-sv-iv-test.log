@@ -1,0 +1,7 @@
+VCD info: dumpfile wave.vcd opened for output.
+../dataset_spec-to-rtl/Prob071_always_casez_test.sv:41: $finish called at 1730 (1ps)
+Hint: Output 'pos' has 343 mismatches. First mismatch occurred at time 20.
+Hint: Total mismatched samples is 343 out of 346 samples
+
+Simulation finished at 1730 ps
+Mismatches: 343 in 346 samples

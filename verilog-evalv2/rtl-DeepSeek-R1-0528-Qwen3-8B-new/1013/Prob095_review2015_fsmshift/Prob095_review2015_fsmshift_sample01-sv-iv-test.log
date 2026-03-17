@@ -1,0 +1,8 @@
+../dataset_spec-to-rtl/Prob095_review2015_fsmshift_test.sv:66: warning: Instantiating module TopModule with dangling input port 3 (pattern_detected) floating.
+VCD info: dumpfile wave.vcd opened for output.
+../dataset_spec-to-rtl/Prob095_review2015_fsmshift_test.sv:17: $finish called at 1001 (1ps)
+Hint: Output 'shift_ena' has 123 mismatches. First mismatch occurred at time 390.
+Hint: Total mismatched samples is 123 out of 200 samples
+
+Simulation finished at 1001 ps
+Mismatches: 123 in 200 samples

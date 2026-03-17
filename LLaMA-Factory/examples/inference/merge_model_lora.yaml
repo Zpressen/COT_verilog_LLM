@@ -1,0 +1,13 @@
+### model
+model_name_or_path: /home/tanhao/Qwen3-30B-A3B-Thinking-2507
+adapter_name_or_path: /home/tanhao/project1/src/checkpoints_qwen3-30B-A3B-thinking-2507/qwen-0922/checkpoint-61
+template: qwen3
+finetuning_type: lora
+trust_remote_code: true
+
+### export
+export_dir: /home/tanhao/merged-lora-Qwen3-30B-A3B-Thinking-2507-0922
+export_size: 4  # Adjust based on disk space (4GB shards; Qwen3-30B needs ~60GB total)
+export_device: gpu  # Use 'cpu' if GPU memory is insufficient
+export_legacy_format: false
+

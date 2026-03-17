@@ -1,0 +1,12 @@
+model_name_or_path: /home/tanhao/gemma-3-27b-it
+template: gemma
+infer_backend: vllm  # choices: [huggingface, vllm, sglang]
+trust_remote_code: true
+vllm_config:
+  gpu_memory_utilization: 0.7
+  tensor_parallel_size: 4
+  max_model_len: 8192
+  limit_mm_per_prompt:
+    image: 0  # Key fix: Disable image processing to skip preprocessor loading
+  mm_processor_kwargs: # Optional: Additional kwargs for safety
+    image: 0

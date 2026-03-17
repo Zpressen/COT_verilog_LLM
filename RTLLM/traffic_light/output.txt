@@ -1,0 +1,8 @@
+At time                   40, clock =   9, red = 1, yellow = 0, green = 0
+At time                  140, clock = 255, red = 1, yellow = 0, green = 0
+At time                  740, clock =   1, red = 0, yellow = 0, green = 1
+At time                  890, clock =   5, red = 1, yellow = 0, green = 0
+At time                  920, clock =   2, red = 1, yellow = 0, green = 0
+At time                  930, clock =   1, red = 1, yellow = 0, green = 0
+===========Failed===========          3
+testbench.v:78: $finish called at 930 (1ns)

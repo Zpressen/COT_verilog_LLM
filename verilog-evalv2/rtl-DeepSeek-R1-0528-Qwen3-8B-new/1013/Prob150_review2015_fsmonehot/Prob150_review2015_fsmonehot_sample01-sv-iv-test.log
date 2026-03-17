@@ -1,0 +1,53 @@
+Prob150_review2015_fsmonehot/Prob150_review2015_fsmonehot_sample01.sv:20: error: Unable to bind wire/reg/memory `S' in `tb.top_module1'
+Prob150_review2015_fsmonehot/Prob150_review2015_fsmonehot_sample01.sv:20: error: Unable to elaborate r-value: ((((state)==(S))&&((d)==(1'd1)))&&((state)==(10'd1)))&&((d)==(1'd1))
+Prob150_review2015_fsmonehot/Prob150_review2015_fsmonehot_sample01.sv:21: error: Unable to bind wire/reg/memory `S' in `tb.top_module1'
+Prob150_review2015_fsmonehot/Prob150_review2015_fsmonehot_sample01.sv:22: error: Unable to bind wire/reg/memory `S1' in `tb.top_module1'
+Prob150_review2015_fsmonehot/Prob150_review2015_fsmonehot_sample01.sv:23: error: Unable to bind wire/reg/memory `S11' in `tb.top_module1'
+Prob150_review2015_fsmonehot/Prob150_review2015_fsmonehot_sample01.sv:24: error: Unable to bind wire/reg/memory `S110' in `tb.top_module1'
+Prob150_review2015_fsmonehot/Prob150_review2015_fsmonehot_sample01.sv:25: error: Unable to bind wire/reg/memory `B0' in `tb.top_module1'
+Prob150_review2015_fsmonehot/Prob150_review2015_fsmonehot_sample01.sv:26: error: Unable to bind wire/reg/memory `B1' in `tb.top_module1'
+Prob150_review2015_fsmonehot/Prob150_review2015_fsmonehot_sample01.sv:27: error: Unable to bind wire/reg/memory `B2' in `tb.top_module1'
+Prob150_review2015_fsmonehot/Prob150_review2015_fsmonehot_sample01.sv:28: error: Unable to bind wire/reg/memory `B3' in `tb.top_module1'
+Prob150_review2015_fsmonehot/Prob150_review2015_fsmonehot_sample01.sv:29: error: Unable to bind wire/reg/memory `Count' in `tb.top_module1'
+Prob150_review2015_fsmonehot/Prob150_review2015_fsmonehot_sample01.sv:30: error: Unable to bind wire/reg/memory `Wait' in `tb.top_module1'
+Prob150_review2015_fsmonehot/Prob150_review2015_fsmonehot_sample01.sv:21: error: Unable to elaborate r-value: (((((((((((((state)==(S))&&((d)==(1'd0)))&&((state)==(10'd1)))&&((d)==(1'd0)))o(((((state)==(S1))&&((d)==(1'd0)))&&((state)==(10'd2)))&&((d)==(1'd0))))o(((((state)==(S11))&&((d)==(1'd0)))&&((state)==(10'd4)))&&((d)==(1'd0))))o(((((state)==(S110))&&((d)==(1'd0)))&&((state)==(10'd6)))&&((d)==(1'd0))))o(((state)==(B0))&&((state)==(10'd8))))o(((state)==(B1))&&((state)==(10'd8))))o(((state)==(B2))&&((state)==(10'd8))))o(((state)==(B3))&&((state)==(10'd8))))o(((state)==(Count))&&((state)==(10'd8))))o(((state)==(Wait))&&((state)==(10'd8)))
+Prob150_review2015_fsmonehot/Prob150_review2015_fsmonehot_sample01.sv:31: error: Unable to bind wire/reg/memory `S' in `tb.top_module1'
+Prob150_review2015_fsmonehot/Prob150_review2015_fsmonehot_sample01.sv:32: error: Unable to bind wire/reg/memory `S1' in `tb.top_module1'
+Prob150_review2015_fsmonehot/Prob150_review2015_fsmonehot_sample01.sv:33: error: Unable to bind wire/reg/memory `S11' in `tb.top_module1'
+Prob150_review2015_fsmonehot/Prob150_review2015_fsmonehot_sample01.sv:34: error: Unable to bind wire/reg/memory `S110' in `tb.top_module1'
+Prob150_review2015_fsmonehot/Prob150_review2015_fsmonehot_sample01.sv:35: error: Unable to bind wire/reg/memory `B0' in `tb.top_module1'
+Prob150_review2015_fsmonehot/Prob150_review2015_fsmonehot_sample01.sv:36: error: Unable to bind wire/reg/memory `B1' in `tb.top_module1'
+Prob150_review2015_fsmonehot/Prob150_review2015_fsmonehot_sample01.sv:37: error: Unable to bind wire/reg/memory `B2' in `tb.top_module1'
+Prob150_review2015_fsmonehot/Prob150_review2015_fsmonehot_sample01.sv:38: error: Unable to bind wire/reg/memory `B3' in `tb.top_module1'
+Prob150_review2015_fsmonehot/Prob150_review2015_fsmonehot_sample01.sv:39: error: Unable to bind wire/reg/memory `Count' in `tb.top_module1'
+Prob150_review2015_fsmonehot/Prob150_review2015_fsmonehot_sample01.sv:40: error: Unable to bind wire/reg/memory `Wait' in `tb.top_module1'
+Prob150_review2015_fsmonehot/Prob150_review2015_fsmonehot_sample01.sv:31: error: Unable to elaborate r-value: (((((((((((((state)==(S))&&((d)==(1'd1)))&&((state)==(10'd1)))&&((d)==(1'd1)))o(((((state)==(S1))&&((d)==(1'd1)))&&((state)==(10'd2)))&&((d)==(1'd1))))o(((((state)==(S11))&&((d)==(1'd1)))&&((state)==(10'd4)))&&((d)==(1'd1))))o(((state)==(S110))&&((state)==(10'd6))))o(((state)==(B0))&&((state)==(10'd8))))o(((state)==(B1))&&((state)==(10'd8))))o(((state)==(B2))&&((state)==(10'd8))))o(((state)==(B3))&&((state)==(10'd8))))o(((state)==(Count))&&((state)==(10'd8))))o(((state)==(Wait))&&((state)==(10'd8)))
+Prob150_review2015_fsmonehot/Prob150_review2015_fsmonehot_sample01.sv:41: error: Unable to bind wire/reg/memory `S11' in `tb.top_module1'
+Prob150_review2015_fsmonehot/Prob150_review2015_fsmonehot_sample01.sv:42: error: Unable to bind wire/reg/memory `S110' in `tb.top_module1'
+Prob150_review2015_fsmonehot/Prob150_review2015_fsmonehot_sample01.sv:43: error: Unable to bind wire/reg/memory `B0' in `tb.top_module1'
+Prob150_review2015_fsmonehot/Prob150_review2015_fsmonehot_sample01.sv:44: error: Unable to bind wire/reg/memory `B1' in `tb.top_module1'
+Prob150_review2015_fsmonehot/Prob150_review2015_fsmonehot_sample01.sv:45: error: Unable to bind wire/reg/memory `B2' in `tb.top_module1'
+Prob150_review2015_fsmonehot/Prob150_review2015_fsmonehot_sample01.sv:46: error: Unable to bind wire/reg/memory `B3' in `tb.top_module1'
+Prob150_review2015_fsmonehot/Prob150_review2015_fsmonehot_sample01.sv:47: error: Unable to bind wire/reg/memory `Count' in `tb.top_module1'
+Prob150_review2015_fsmonehot/Prob150_review2015_fsmonehot_sample01.sv:48: error: Unable to bind wire/reg/memory `Wait' in `tb.top_module1'
+Prob150_review2015_fsmonehot/Prob150_review2015_fsmonehot_sample01.sv:41: error: Unable to elaborate r-value: (((((((((((state)==(S11))&&((d)==(1'd1)))&&((state)==(10'd4)))&&((d)==(1'd1)))o(((((state)==(S110))&&((d)==(1'd1)))&&((state)==(10'd6)))&&((d)==(1'd1))))o(((state)==(B0))&&((state)==(10'd8))))o(((state)==(B1))&&((state)==(10'd8))))o(((state)==(B2))&&((state)==(10'd8))))o(((state)==(B3))&&((state)==(10'd8))))o(((state)==(Count))&&((state)==(10'd8))))o(((state)==(Wait))&&((state)==(10'd8)))
+Prob150_review2015_fsmonehot/Prob150_review2015_fsmonehot_sample01.sv:49: error: Unable to bind wire/reg/memory `Count' in `tb.top_module1'
+Prob150_review2015_fsmonehot/Prob150_review2015_fsmonehot_sample01.sv:50: error: Unable to bind wire/reg/memory `Wait' in `tb.top_module1'
+Prob150_review2015_fsmonehot/Prob150_review2015_fsmonehot_sample01.sv:51: error: Unable to bind wire/reg/memory `B0' in `tb.top_module1'
+Prob150_review2015_fsmonehot/Prob150_review2015_fsmonehot_sample01.sv:52: error: Unable to bind wire/reg/memory `B1' in `tb.top_module1'
+Prob150_review2015_fsmonehot/Prob150_review2015_fsmonehot_sample01.sv:53: error: Unable to bind wire/reg/memory `B2' in `tb.top_module1'
+Prob150_review2015_fsmonehot/Prob150_review2015_fsmonehot_sample01.sv:54: error: Unable to bind wire/reg/memory `B3' in `tb.top_module1'
+Prob150_review2015_fsmonehot/Prob150_review2015_fsmonehot_sample01.sv:55: error: Unable to bind wire/reg/memory `Count' in `tb.top_module1'
+Prob150_review2015_fsmonehot/Prob150_review2015_fsmonehot_sample01.sv:56: error: Unable to bind wire/reg/memory `Wait' in `tb.top_module1'
+Prob150_review2015_fsmonehot/Prob150_review2015_fsmonehot_sample01.sv:49: error: Unable to elaborate r-value: (((((((((((state)==(Count))&&((done_counting)==(1'd1)))&&((state)==(10'd8)))&&((done_counting)==(1'd1)))o(((((state)==(Wait))&&((ack)==(1'd1)))&&((state)==(10'd8)))&&((ack)==(1'd1))))o(((state)==(B0))&&((state)==(10'd8))))o(((state)==(B1))&&((state)==(10'd8))))o(((state)==(B2))&&((state)==(10'd8))))o(((state)==(B3))&&((state)==(10'd8))))o(((state)==(Count))&&((state)==(10'd8))))o(((state)==(Wait))&&((state)==(10'd8)))
+Prob150_review2015_fsmonehot/Prob150_review2015_fsmonehot_sample01.sv:59: error: Unable to bind wire/reg/memory `Wait' in `tb.top_module1'
+Prob150_review2015_fsmonehot/Prob150_review2015_fsmonehot_sample01.sv:59: error: Unable to elaborate r-value: (state)==(Wait)
+Prob150_review2015_fsmonehot/Prob150_review2015_fsmonehot_sample01.sv:60: error: Unable to bind wire/reg/memory `Count' in `tb.top_module1'
+Prob150_review2015_fsmonehot/Prob150_review2015_fsmonehot_sample01.sv:60: error: Unable to elaborate r-value: (state)==(Count)
+Prob150_review2015_fsmonehot/Prob150_review2015_fsmonehot_sample01.sv:61: error: Unable to bind wire/reg/memory `B0' in `tb.top_module1'
+Prob150_review2015_fsmonehot/Prob150_review2015_fsmonehot_sample01.sv:61: error: Unable to bind wire/reg/memory `B1' in `tb.top_module1'
+Prob150_review2015_fsmonehot/Prob150_review2015_fsmonehot_sample01.sv:61: error: Unable to bind wire/reg/memory `B2' in `tb.top_module1'
+Prob150_review2015_fsmonehot/Prob150_review2015_fsmonehot_sample01.sv:61: error: Unable to bind wire/reg/memory `B3' in `tb.top_module1'
+Prob150_review2015_fsmonehot/Prob150_review2015_fsmonehot_sample01.sv:61: error: Unable to elaborate r-value: ((((state)==(B0))o((state)==(B1)))o((state)==(B2)))o((state)==(B3))
+51 error(s) during elaboration.
+timeout: failed to run command ‘./Prob150_review2015_fsmonehot/Prob150_review2015_fsmonehot_sample01’: No such file or directory

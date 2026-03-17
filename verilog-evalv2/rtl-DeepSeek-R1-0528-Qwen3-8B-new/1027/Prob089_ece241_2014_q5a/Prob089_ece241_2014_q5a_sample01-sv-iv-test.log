@@ -1,0 +1,4 @@
+Prob089_ece241_2014_q5a/Prob089_ece241_2014_q5a_sample01.sv:28: error: z is not a valid l-value in tb.top_module1.
+Prob089_ece241_2014_q5a/Prob089_ece241_2014_q5a_sample01.sv:6:      : z is declared here as wire.
+1 error(s) during elaboration.
+timeout: failed to run command ‘./Prob089_ece241_2014_q5a/Prob089_ece241_2014_q5a_sample01’: No such file or directory

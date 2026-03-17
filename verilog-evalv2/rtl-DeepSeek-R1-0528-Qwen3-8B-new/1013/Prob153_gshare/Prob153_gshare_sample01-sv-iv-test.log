@@ -1,0 +1,3 @@
+../dataset_spec-to-rtl/Prob153_gshare_test.sv:236: warning: Instantiating module TopModule with dangling input port 12 (train_pc_old) floating.
+vvp: event.cc:596: virtual void vvp_fun_anyedge_sa::recv_vec4(vvp_net_ptr_t, const vvp_vector4_t&, vvp_context_t): Assertion `value' failed.
+timeout: the monitored command dumped core

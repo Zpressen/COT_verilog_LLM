@@ -1,0 +1,4 @@
+Prob110_fsm2/Prob110_fsm2_sample01.sv:24: error: This assignment requires an explicit cast.
+Prob110_fsm2/Prob110_fsm2_sample01.sv:25: error: This assignment requires an explicit cast.
+2 error(s) during elaboration.
+timeout: failed to run command ‘./Prob110_fsm2/Prob110_fsm2_sample01’: No such file or directory

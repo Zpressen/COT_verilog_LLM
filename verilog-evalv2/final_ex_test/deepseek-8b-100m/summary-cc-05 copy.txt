@@ -1,0 +1,168 @@
+
+Prob001_zero                  [04/05]( 80%)  1.76 ...S.                   
+Prob002_m2014_q4i             [01/05]( 20%)  2.58 S.SSS                   
+Prob003_step_one              [03/05]( 60%)  1.88 .SS..                   
+Prob004_vector2               [01/05]( 20%)  7.92 RS.SR                   
+Prob005_notgate               [03/05]( 60%)  1.99 .w.S.                   
+Prob006_vectorr               [01/05]( 20%) 26.04 SwS.R                   
+Prob007_wire                  [02/05]( 40%) 16.83 SSS..                   
+Prob008_m2014_q4h             [03/05]( 60%) 20.16 S...w                   
+Prob009_popcount3             [00/05](  0%) 32.43 RwwwS                   
+Prob010_mt2015_q4a            [04/05]( 80%) 39.05 ..S..                   
+Prob011_norgate               [04/05]( 80%) 32.45 S....                   
+Prob012_xnorgate              [02/05]( 40%) 17.48 SR..R                   
+Prob013_m2014_q4e             [03/05]( 60%) 19.17 .Rc..                   
+Prob014_andgate               [03/05]( 60%) 32.47 ...Sw                   
+Prob015_vector1               [05/05](100%) 32.84 .....                   
+Prob016_m2014_q4j             [02/05]( 40%) 29.33 R.RR.                   
+Prob017_mux2to1v              [01/05]( 20%) 32.42 mwSR.                   
+Prob018_mux256to1             [04/05]( 80%) 25.28 w....                   
+Prob019_m2014_q4f             [05/05](100%) 32.71 .....                   
+Prob020_mt2015_eq2            [04/05]( 80%) 18.24 ...S.                   
+Prob021_mux256to1v            [01/05]( 20%) 40.00 CCC.C                   
+Prob022_mux2to1               [02/05]( 40%) 11.68 S..wC                   
+Prob023_vector100r            [02/05]( 40%) 25.64 S.S.S                   
+Prob024_hadd                  [03/05]( 60%) 32.44 .m..S                   
+Prob025_reduction             [03/05]( 60%) 17.41 .w..w                   
+Prob026_alwaysblock1          [02/05]( 40%) 17.11 S..SS                   
+Prob027_fadd                  [04/05]( 80%) 25.02 .S...                   
+Prob028_m2014_q4a             [02/05]( 40%) 24.80 S.c.c                   
+Prob029_m2014_q4g             [03/05]( 60%) 25.29 ...SR                   
+Prob030_popcount255           [01/05]( 20%) 26.05 SSS.S                   
+Prob031_dff                   [04/05]( 80%) 17.29 .S...                   
+Prob032_vector0               [04/05]( 80%) 17.68 S....                   
+Prob033_ece241_2014_q1c       [03/05]( 60%) 25.61 RR...                   
+Prob034_dff8                  [04/05]( 80%)  3.13 .S...                   
+Prob035_count1to10            [01/05]( 20%) 29.38 SSR.R                   
+Prob036_ringer                [00/05](  0%) 20.52 pSCwC                   
+Prob037_review2015_count1k    [02/05]( 40%) 18.41 ..SrR                   
+Prob038_count15               [00/05](  0%) 11.48 SrrSr                   
+Prob039_always_if             [02/05]( 40%) 18.50 p..Sc                   
+Prob040_count10               [00/05](  0%) 11.26 rrRRr                   
+Prob041_dff8r                 [02/05]( 40%) 25.15 .r.rr                   
+Prob042_vector4               [01/05]( 20%) 24.91 .SSSS                   
+Prob043_vector5               [00/05](  0%) 31.00 CCRSC                   
+Prob044_vectorgates           [02/05]( 40%) 22.52 .wR.S                   
+Prob045_edgedetect2           [02/05]( 40%) 26.16 ..SRS                   
+Prob046_dff8p                 [02/05]( 40%) 11.44 r..rr                   
+Prob047_dff8ar                [03/05]( 60%) 18.15 ..RS.                   
+Prob048_m2014_q4c             [04/05]( 80%) 32.94 .S...                   
+Prob049_m2014_q4b             [03/05]( 60%) 10.73 R..m.                   
+Prob050_kmap1                 [04/05]( 80%) 26.71 .S...                   
+Prob051_gates4                [02/05]( 40%) 18.31 CC..C                   
+Prob052_gates100              [02/05]( 40%) 21.55 S.C.S                   
+Prob053_m2014_q4d             [00/05](  0%) 17.54 mRRRR                   
+Prob054_edgedetect            [01/05]( 20%)  8.89 RRRR.                   
+Prob055_conditional           [03/05]( 60%) 11.41 ...RS                   
+Prob056_ece241_2013_q7        [05/05](100%) 25.48 .....                   
+Prob057_kmap2                 [00/05](  0%) 33.34 pRSSR                   
+Prob058_alwaysblock2          [04/05]( 80%) 10.44 .S...                   
+Prob059_wire4                 [04/05]( 80%)  9.78 .C...                   
+Prob060_m2014_q4k             [00/05](  0%) 32.74 rwwmw                   
+Prob061_2014_q4a              [00/05](  0%) 34.65 SRRmS                   
+Prob062_bugs_mux2             [00/05](  0%) 32.81 RRRRS                   
+Prob063_review2015_shiftcount [01/05]( 20%) 20.98 R.RmR                   
+Prob064_vector3               [01/05]( 20%) 32.74 RSS.S                   
+Prob065_7420                  [04/05]( 80%) 26.24 .S...                   
+Prob066_edgecapture           [00/05](  0%) 25.19 rrRrr                   
+Prob067_countslow             [01/05]( 20%) 11.48 RSS.R                   
+Prob068_countbcd              [00/05](  0%) 19.78 wwwwS                   
+Prob069_truthtable1           [01/05]( 20%) 22.57 wSw.R                   
+Prob070_ece241_2013_q2        [00/05](  0%) 33.50 SSSSR                   
+Prob071_always_casez          [00/05](  0%) 32.53 SRRRR                   
+Prob072_thermostat            [01/05]( 20%) 25.98 Sw.wR                   
+Prob073_dff16e                [02/05]( 40%) 18.34 r..rR                   
+Prob074_ece241_2014_q4        [01/05]( 20%) 19.97 .RRwR                   
+Prob075_counter_2bc           [00/05](  0%) 20.14 RRRRR                   
+Prob076_always_case           [05/05](100%) 30.73 .....                   
+Prob077_wire_decl             [00/05](  0%) 10.93 CCSSC                   
+Prob078_dualedge              [03/05]( 60%) 22.84 .RS..                   
+Prob079_fsm3onehot            [02/05]( 40%) 16.50 ..SSw                   
+Prob080_timer                 [00/05](  0%) 34.48 SCwRC                   
+Prob081_7458                  [03/05]( 60%) 20.60 SC...                   
+Prob082_lfsr32                [00/05](  0%) 30.09 TTSST                   
+Prob083_mt2015_q4b            [03/05]( 60%) 33.17 ..S.S                   
+Prob084_ece241_2013_q12       [01/05]( 20%) 26.71 .SSRw                   
+Prob085_shift4                [01/05]( 20%) 13.17 RRRS.                   
+Prob086_lfsr5                 [00/05](  0%) 22.27 RrRrR                   
+Prob087_gates                 [02/05]( 40%) 18.01 .SRS.                   
+Prob088_ece241_2014_q5b       [00/05](  0%) 27.20 CRwCC                   
+Prob089_ece241_2014_q5a       [00/05](  0%) 22.39 RSRSp                   
+Prob090_circuit1              [05/05](100%) 40.00 .....                   
+Prob091_2012_q2b              [00/05](  0%) 25.69 SRwSw                   
+Prob092_gatesv100             [01/05]( 20%) 36.35 SRm.R                   
+Prob093_ece241_2014_q3        [00/05](  0%) 40.00 SSSSS                   
+Prob094_gatesv                [02/05]( 40%) 13.64 SSR..                   
+Prob095_review2015_fsmshift   [00/05](  0%) 19.53 rwCrC                   
+Prob096_review2015_fsmseq     [00/05](  0%) 26.50 rwCrC                   
+Prob097_mux9to1v              [02/05]( 40%) 26.61 RRR..                   
+Prob098_circuit7              [01/05]( 20%) 33.46 R.SRS                   
+Prob099_m2014_q6c             [02/05]( 40%) 30.53 .RCR.                   
+Prob100_fsm3comb              [00/05](  0%) 26.06 SSwww                   
+Prob101_circuit4              [00/05](  0%) 30.78 SSSRw                   
+Prob102_circuit3              [01/05]( 20%) 38.86 RS.SR                   
+Prob103_circuit2              [01/05]( 20%) 40.00 SS.SS                   
+Prob104_mt2015_muxdff         [00/05](  0%) 23.90 CCSCR                   
+Prob105_rotate100             [00/05](  0%) 12.08 RSRSR                   
+Prob106_always_nolatches      [03/05]( 60%) 19.15 .Sc..                   
+Prob107_fsm1s                 [01/05]( 20%) 11.63 prR.w                   
+Prob108_rule90                [01/05]( 20%) 21.99 SSm.C                   
+Prob109_fsm1                  [01/05]( 20%) 25.47 .wCRR                   
+Prob110_fsm2                  [02/05]( 40%) 26.73 SS..S                   
+Prob111_fsm2s                 [01/05]( 20%) 11.20 rrr.r                   
+Prob112_always_case2          [00/05](  0%) 32.84 SSRRR                   
+Prob113_2012_q1g              [00/05](  0%) 39.50 CRSRS                   
+Prob114_bugs_case             [03/05]( 60%)  6.29 .SS..                   
+Prob115_shift18               [01/05]( 20%) 23.82 SRRS.                   
+Prob116_m2014_q3              [00/05](  0%) 32.84 RSRRR                   
+Prob117_circuit9              [01/05]( 20%) 40.00 RR.RR                   
+Prob118_history_shift         [00/05](  0%) 31.62 RRRSR                   
+Prob119_fsm3                  [01/05]( 20%) 29.23 SwRS.                   
+Prob120_fsm3s                 [01/05]( 20%) 25.86 w.rrw                   
+Prob121_2014_q3bfsm           [00/05](  0%) 27.63 rSppS                   
+Prob122_kmap4                 [04/05]( 80%) 26.41 ..R..                   
+Prob123_bugs_addsubz          [01/05]( 20%) 21.79 SSm.S                   
+Prob124_rule110               [00/05](  0%) 26.34 RRpRR                   
+Prob125_kmap3                 [00/05](  0%) 31.20 RRSSR                   
+Prob126_circuit6              [00/05](  0%) 26.29 RRRSR                   
+Prob127_lemmings1             [01/05]( 20%) 26.59 .CSRC                   
+Prob128_fsm_ps2               [00/05](  0%) 26.26 CrrCw                   
+Prob129_ece241_2013_q8        [00/05](  0%) 30.80 SRRRR                   
+Prob130_circuit5              [02/05]( 40%) 28.93 .SRS.                   
+Prob131_mt2015_q4             [00/05](  0%) 29.36 SSmmm                   
+Prob132_always_if2            [00/05](  0%) 27.77 mRRSR                   
+Prob133_2014_q3fsm            [00/05](  0%) 33.48 rrrrr                   
+Prob134_2014_q3c              [00/05](  0%) 23.75 RRpRR                   
+Prob135_m2014_q6b             [00/05](  0%) 24.88 RRRSR                   
+Prob136_m2014_q6              [00/05](  0%) 33.10 CCSrC                   
+Prob137_fsm_serial            [00/05](  0%) 14.43 CRrmr                   
+Prob138_2012_q2fsm            [00/05](  0%) 20.32 SrrpC                   
+Prob139_2013_q2bfsm           [00/05](  0%) 40.00 rSCrC                   
+Prob140_fsm_hdlc              [00/05](  0%) 23.12 wRrSC                   
+Prob141_count_clock           [00/05](  0%) 20.64 CSTTS                   
+Prob142_lemmings2             [00/05](  0%) 26.99 CpwSw                   
+Prob143_fsm_onehot            [00/05](  0%) 36.11 SSSwR                   
+Prob144_conwaylife            [00/05](  0%) 26.72 CSSSS                   
+Prob145_circuit8              [00/05](  0%) 27.27 RRRSR                   
+Prob146_fsm_serialdata        [00/05](  0%) 34.30 SCCSS                   
+Prob147_circuit10             [00/05](  0%) 28.20 RSRRC                   
+Prob148_2013_q2afsm           [00/05](  0%) 27.84 rwSwp                   
+Prob149_ece241_2013_q4        [00/05](  0%) 22.28 Srwrr                   
+Prob150_review2015_fsmonehot  [00/05](  0%) 40.00 SRRwS                   
+Prob151_review2015_fsm        [00/05](  0%) 26.49 rrrrS                   
+Prob152_lemmings3             [00/05](  0%) 29.22 SSCSw                   
+Prob153_gshare                [00/05](  0%) 34.06 wSwwS                   
+Prob154_fsm_ps2data           [00/05](  0%) 40.00 SrrCC                   
+Prob155_lemmings4             [00/05](  0%) 28.80 wSRwR                   
+Prob156_review2015_fancytimer [00/05](  0%) 26.14 SSSCT                   
+
+pass_rate             =      27.31
+avg_gini_simpson_idx  =       0.55
+total_prompt_tokens   =     210287
+total_resp_tokens     =    3616309
+total_tokens          =    3826596
+avg_tokens_per_prompt =     269.60
+avg_tokens_per_resp   =    4636.29
+avg_tokens_per_query  =    4905.89
+total_cost            =       0.00
+

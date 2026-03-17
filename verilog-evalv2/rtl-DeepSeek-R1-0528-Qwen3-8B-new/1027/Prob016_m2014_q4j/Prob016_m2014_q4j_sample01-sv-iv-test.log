@@ -1,0 +1,11 @@
+Prob016_m2014_q4j/Prob016_m2014_q4j_sample01.sv:16: error: Unresolved net/uwire sum cannot have multiple drivers.
+Prob016_m2014_q4j/Prob016_m2014_q4j_sample01.sv:16: error: Output port expression must support continuous assignment.
+Prob016_m2014_q4j/Prob016_m2014_q4j_sample01.sv:16:      : Port 4 (sum) of FullAdder is connected to sum[i]
+Prob016_m2014_q4j/Prob016_m2014_q4j_sample01.sv:16: error: Unresolved net/uwire sum cannot have multiple drivers.
+Prob016_m2014_q4j/Prob016_m2014_q4j_sample01.sv:16: error: Output port expression must support continuous assignment.
+Prob016_m2014_q4j/Prob016_m2014_q4j_sample01.sv:16:      : Port 4 (sum) of FullAdder is connected to sum[i]
+Prob016_m2014_q4j/Prob016_m2014_q4j_sample01.sv:16: error: Unresolved net/uwire sum cannot have multiple drivers.
+Prob016_m2014_q4j/Prob016_m2014_q4j_sample01.sv:16: error: Output port expression must support continuous assignment.
+Prob016_m2014_q4j/Prob016_m2014_q4j_sample01.sv:16:      : Port 4 (sum) of FullAdder is connected to sum[i]
+6 error(s) during elaboration.
+timeout: failed to run command ‘./Prob016_m2014_q4j/Prob016_m2014_q4j_sample01’: No such file or directory

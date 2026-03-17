@@ -1,0 +1,3 @@
+Prob049_m2014_q4b/Prob049_m2014_q4b_sample01.sv:10: error: 'q' has already been declared in this scope.
+Prob049_m2014_q4b/Prob049_m2014_q4b_sample01.sv:7:      : It was declared here as a net.
+timeout: failed to run command ‘./Prob049_m2014_q4b/Prob049_m2014_q4b_sample01’: No such file or directory

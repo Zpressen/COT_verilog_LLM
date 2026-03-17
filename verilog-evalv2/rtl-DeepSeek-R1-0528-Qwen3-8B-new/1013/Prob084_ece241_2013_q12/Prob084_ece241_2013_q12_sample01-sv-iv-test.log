@@ -1,0 +1,14 @@
+Prob084_ece241_2013_q12/Prob084_ece241_2013_q12_sample01.sv:22: warning: implicit definition of wire 'i'.
+Prob084_ece241_2013_q12/Prob084_ece241_2013_q12_sample01.sv:19: error: Unknown module type: Dff
+Prob084_ece241_2013_q12/Prob084_ece241_2013_q12_sample01.sv:19: error: Unknown module type: Dff
+Prob084_ece241_2013_q12/Prob084_ece241_2013_q12_sample01.sv:19: error: Unknown module type: Dff
+Prob084_ece241_2013_q12/Prob084_ece241_2013_q12_sample01.sv:19: error: Unknown module type: Dff
+Prob084_ece241_2013_q12/Prob084_ece241_2013_q12_sample01.sv:19: error: Unknown module type: Dff
+Prob084_ece241_2013_q12/Prob084_ece241_2013_q12_sample01.sv:19: error: Unknown module type: Dff
+Prob084_ece241_2013_q12/Prob084_ece241_2013_q12_sample01.sv:19: error: Unknown module type: Dff
+Prob084_ece241_2013_q12/Prob084_ece241_2013_q12_sample01.sv:19: error: Unknown module type: Dff
+8 error(s) during elaboration.
+*** These modules were missing:
+        Dff referenced 8 times.
+***
+timeout: failed to run command ‘./Prob084_ece241_2013_q12/Prob084_ece241_2013_q12_sample01’: No such file or directory

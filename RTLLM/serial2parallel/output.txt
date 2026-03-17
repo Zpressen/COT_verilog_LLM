@@ -1,0 +1,2 @@
+===========Error===========
+testbench.v:60: $finish called at 232 (1s)

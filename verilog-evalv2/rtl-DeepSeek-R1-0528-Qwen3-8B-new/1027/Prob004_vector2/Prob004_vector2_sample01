@@ -1,0 +1,297 @@
+#! /home/tanhao/anaconda3/envs/verilogEval/bin/vvp
+:ivl_version "12.0 (stable)" "(s20221226-116-g014416872)";
+:ivl_delay_selection "TYPICAL";
+:vpi_time_precision - 12;
+:vpi_module "/home/tanhao/anaconda3/envs/verilogEval/lib/ivl/system.vpi";
+:vpi_module "/home/tanhao/anaconda3/envs/verilogEval/lib/ivl/vhdl_sys.vpi";
+:vpi_module "/home/tanhao/anaconda3/envs/verilogEval/lib/ivl/vhdl_textio.vpi";
+:vpi_module "/home/tanhao/anaconda3/envs/verilogEval/lib/ivl/v2005_math.vpi";
+:vpi_module "/home/tanhao/anaconda3/envs/verilogEval/lib/ivl/va_math.vpi";
+:vpi_module "/home/tanhao/anaconda3/envs/verilogEval/lib/ivl/v2009.vpi";
+S_0x5569a9fc1bd0 .scope package, "$unit" "$unit" 2 1;
+ .timescale 0 0;
+S_0x5569a9fc1d60 .scope module, "tb" "tb" 3 38;
+ .timescale -12 -12;
+L_0x5569a9fb9b80 .functor NOT 1, L_0x5569a9ff63b0, C4<0>, C4<0>, C4<0>;
+L_0x5569a9ff60e0 .functor XOR 32, L_0x5569a9ff5f10, L_0x5569a9ff6040, C4<00000000000000000000000000000000>, C4<00000000000000000000000000000000>;
+L_0x5569a9ff62a0 .functor XOR 32, L_0x5569a9ff60e0, L_0x5569a9ff61d0, C4<00000000000000000000000000000000>, C4<00000000000000000000000000000000>;
+v0x5569a9ff47a0_0 .net *"_ivl_10", 31 0, L_0x5569a9ff61d0;  1 drivers
+v0x5569a9ff48a0_0 .net *"_ivl_12", 31 0, L_0x5569a9ff62a0;  1 drivers
+v0x5569a9ff4980_0 .net *"_ivl_2", 31 0, L_0x5569a9ff5e70;  1 drivers
+v0x5569a9ff4a40_0 .net *"_ivl_4", 31 0, L_0x5569a9ff5f10;  1 drivers
+v0x5569a9ff4b20_0 .net *"_ivl_6", 31 0, L_0x5569a9ff6040;  1 drivers
+v0x5569a9ff4c50_0 .net *"_ivl_8", 31 0, L_0x5569a9ff60e0;  1 drivers
+v0x5569a9ff4d30_0 .var "clk", 0 0;
+v0x5569a9ff4dd0_0 .net "in", 31 0, v0x5569a9ff37d0_0;  1 drivers
+v0x5569a9ff4e70_0 .net "out_dut", 31 0, L_0x5569a9ff5b70;  1 drivers
+v0x5569a9ff4f30_0 .net "out_ref", 31 0, L_0x5569a9ff58a0;  1 drivers
+v0x5569a9ff4fd0_0 .var/2u "stats1", 159 0;
+v0x5569a9ff5090_0 .var/2u "strobe", 0 0;
+v0x5569a9ff5150_0 .net "tb_match", 0 0, L_0x5569a9ff63b0;  1 drivers
+v0x5569a9ff5210_0 .net "tb_mismatch", 0 0, L_0x5569a9fb9b80;  1 drivers
+v0x5569a9ff52d0_0 .net "wavedrom_enable", 0 0, v0x5569a9ff3890_0;  1 drivers
+v0x5569a9ff5370_0 .net "wavedrom_title", 511 0, v0x5569a9ff3930_0;  1 drivers
+L_0x5569a9ff5e70 .concat [ 32 0 0 0], L_0x5569a9ff58a0;
+L_0x5569a9ff5f10 .concat [ 32 0 0 0], L_0x5569a9ff58a0;
+L_0x5569a9ff6040 .concat [ 32 0 0 0], L_0x5569a9ff5b70;
+L_0x5569a9ff61d0 .concat [ 32 0 0 0], L_0x5569a9ff58a0;
+L_0x5569a9ff63b0 .cmp/eeq 32, L_0x5569a9ff5e70, L_0x5569a9ff62a0;
+S_0x5569a9f9e280 .scope module, "good1" "RefModule" 3 77, 4 2 0, S_0x5569a9fc1d60;
+ .timescale -12 -12;
+    .port_info 0 /INPUT 32 "in";
+    .port_info 1 /OUTPUT 32 "out";
+v0x5569a9fbc580_0 .net *"_ivl_1", 7 0, L_0x5569a9ff54a0;  1 drivers
+v0x5569a9fbc050_0 .net *"_ivl_3", 7 0, L_0x5569a9ff5600;  1 drivers
+v0x5569a9fb9ca0_0 .net *"_ivl_5", 7 0, L_0x5569a9ff56d0;  1 drivers
+v0x5569a9fb9da0_0 .net *"_ivl_7", 7 0, L_0x5569a9ff57a0;  1 drivers
+v0x5569a9ff2da0_0 .net "in", 31 0, v0x5569a9ff37d0_0;  alias, 1 drivers
+v0x5569a9ff2ed0_0 .net "out", 31 0, L_0x5569a9ff58a0;  alias, 1 drivers
+L_0x5569a9ff54a0 .part v0x5569a9ff37d0_0, 0, 8;
+L_0x5569a9ff5600 .part v0x5569a9ff37d0_0, 8, 8;
+L_0x5569a9ff56d0 .part v0x5569a9ff37d0_0, 16, 8;
+L_0x5569a9ff57a0 .part v0x5569a9ff37d0_0, 24, 8;
+L_0x5569a9ff58a0 .concat [ 8 8 8 8], L_0x5569a9ff57a0, L_0x5569a9ff56d0, L_0x5569a9ff5600, L_0x5569a9ff54a0;
+S_0x5569a9ff3010 .scope module, "stim1" "stimulus_gen" 3 73, 3 5 0, S_0x5569a9fc1d60;
+ .timescale -12 -12;
+    .port_info 0 /INPUT 1 "clk";
+    .port_info 1 /OUTPUT 32 "in";
+    .port_info 2 /OUTPUT 512 "wavedrom_title";
+    .port_info 3 /OUTPUT 1 "wavedrom_enable";
+v0x5569a9ff3710_0 .net "clk", 0 0, v0x5569a9ff4d30_0;  1 drivers
+v0x5569a9ff37d0_0 .var "in", 31 0;
+v0x5569a9ff3890_0 .var "wavedrom_enable", 0 0;
+v0x5569a9ff3930_0 .var "wavedrom_title", 511 0;
+E_0x5569a9fd6250/0 .event negedge, v0x5569a9ff3710_0;
+E_0x5569a9fd6250/1 .event posedge, v0x5569a9ff3710_0;
+E_0x5569a9fd6250 .event/or E_0x5569a9fd6250/0, E_0x5569a9fd6250/1;
+S_0x5569a9ff3210 .scope task, "wavedrom_start" "wavedrom_start" 3 17, 3 17 0, S_0x5569a9ff3010;
+ .timescale -12 -12;
+v0x5569a9ff3410_0 .var "title", 511 0;
+TD_tb.stim1.wavedrom_start ;
+    %end;
+S_0x5569a9ff3510 .scope task, "wavedrom_stop" "wavedrom_stop" 3 20, 3 20 0, S_0x5569a9ff3010;
+ .timescale -12 -12;
+TD_tb.stim1.wavedrom_stop ;
+    %delay 1, 0;
+    %end;
+S_0x5569a9ff3a70 .scope module, "top_module1" "TopModule" 3 81, 5 2 0, S_0x5569a9fc1d60;
+ .timescale 0 0;
+    .port_info 0 /INPUT 32 "in";
+    .port_info 1 /OUTPUT 32 "out";
+v0x5569a9ff3c50_0 .net *"_ivl_11", 7 0, v0x5569a9ff4100_0;  1 drivers
+v0x5569a9ff3d50_0 .net *"_ivl_16", 7 0, v0x5569a9ff3fd0_0;  1 drivers
+v0x5569a9ff3e30_0 .net *"_ivl_3", 7 0, v0x5569a9ff42c0_0;  1 drivers
+v0x5569a9ff3ef0_0 .net *"_ivl_7", 7 0, v0x5569a9ff41e0_0;  1 drivers
+v0x5569a9ff3fd0_0 .var "byte0", 7 0;
+v0x5569a9ff4100_0 .var "byte1", 7 0;
+v0x5569a9ff41e0_0 .var "byte2", 7 0;
+v0x5569a9ff42c0_0 .var "byte3", 7 0;
+v0x5569a9ff43a0_0 .net "in", 31 0, v0x5569a9ff37d0_0;  alias, 1 drivers
+v0x5569a9ff4460_0 .net "out", 31 0, L_0x5569a9ff5b70;  alias, 1 drivers
+L_0x5569a9ff5b70 .concat8 [ 8 8 8 8], v0x5569a9ff42c0_0, v0x5569a9ff41e0_0, v0x5569a9ff4100_0, v0x5569a9ff3fd0_0;
+S_0x5569a9ff45a0 .scope task, "wait_for_end_of_timestep" "wait_for_end_of_timestep" 3 87, 3 87 0, S_0x5569a9fc1d60;
+ .timescale -12 -12;
+E_0x5569a9fc4360 .event anyedge, v0x5569a9ff5090_0;
+TD_tb.wait_for_end_of_timestep ;
+    %pushi/vec4 5, 0, 32;
+T_2.0 %dup/vec4;
+    %pushi/vec4 0, 0, 32;
+    %cmp/s;
+    %jmp/1xz T_2.1, 5;
+    %jmp/1 T_2.1, 4;
+    %pushi/vec4 1, 0, 32;
+    %sub;
+    %load/vec4 v0x5569a9ff5090_0;
+    %nor/r;
+    %assign/vec4 v0x5569a9ff5090_0, 0;
+    %wait E_0x5569a9fc4360;
+    %jmp T_2.0;
+T_2.1 ;
+    %pop/vec4 1;
+    %end;
+    .scope S_0x5569a9ff3010;
+T_3 ;
+    %pushi/vec4 10, 0, 32;
+T_3.0 %dup/vec4;
+    %pushi/vec4 0, 0, 32;
+    %cmp/s;
+    %jmp/1xz T_3.1, 5;
+    %jmp/1 T_3.1, 4;
+    %pushi/vec4 1, 0, 32;
+    %sub;
+    %wait E_0x5569a9fd6250;
+    %vpi_func 3 29 "$random" 32 {0 0 0};
+    %assign/vec4 v0x5569a9ff37d0_0, 0;
+    %jmp T_3.0;
+T_3.1 ;
+    %pop/vec4 1;
+    %fork TD_tb.stim1.wavedrom_stop, S_0x5569a9ff3510;
+    %join;
+    %pushi/vec4 100, 0, 32;
+T_3.2 %dup/vec4;
+    %pushi/vec4 0, 0, 32;
+    %cmp/s;
+    %jmp/1xz T_3.3, 5;
+    %jmp/1 T_3.3, 4;
+    %pushi/vec4 1, 0, 32;
+    %sub;
+    %wait E_0x5569a9fd6250;
+    %vpi_func 3 32 "$random" 32 {0 0 0};
+    %assign/vec4 v0x5569a9ff37d0_0, 0;
+    %jmp T_3.2;
+T_3.3 ;
+    %pop/vec4 1;
+    %vpi_call/w 3 33 "$finish" {0 0 0};
+    %end;
+    .thread T_3;
+    .scope S_0x5569a9ff3a70;
+T_4 ;
+    %load/vec4 v0x5569a9ff43a0_0;
+    %parti/s 8, 0, 2;
+    %store/vec4 v0x5569a9ff3fd0_0, 0, 8;
+    %load/vec4 v0x5569a9ff43a0_0;
+    %parti/s 8, 8, 5;
+    %store/vec4 v0x5569a9ff4100_0, 0, 8;
+    %load/vec4 v0x5569a9ff43a0_0;
+    %parti/s 8, 16, 6;
+    %store/vec4 v0x5569a9ff41e0_0, 0, 8;
+    %load/vec4 v0x5569a9ff43a0_0;
+    %parti/s 8, 24, 6;
+    %store/vec4 v0x5569a9ff42c0_0, 0, 8;
+    %end;
+    .thread T_4, $init;
+    .scope S_0x5569a9fc1d60;
+T_5 ;
+    %pushi/vec4 0, 0, 1;
+    %store/vec4 v0x5569a9ff4d30_0, 0, 1;
+    %pushi/vec4 0, 0, 1;
+    %store/vec4 v0x5569a9ff5090_0, 0, 1;
+    %end;
+    .thread T_5, $init;
+    .scope S_0x5569a9fc1d60;
+T_6 ;
+T_6.0 ;
+    %delay 5, 0;
+    %load/vec4 v0x5569a9ff4d30_0;
+    %inv;
+    %store/vec4 v0x5569a9ff4d30_0, 0, 1;
+    %jmp T_6.0;
+    %end;
+    .thread T_6;
+    .scope S_0x5569a9fc1d60;
+T_7 ;
+    %vpi_call/w 3 65 "$dumpfile", "wave.vcd" {0 0 0};
+    %vpi_call/w 3 66 "$dumpvars", 32'sb00000000000000000000000000000001, v0x5569a9ff3710_0, v0x5569a9ff5210_0, v0x5569a9ff4dd0_0, v0x5569a9ff4f30_0, v0x5569a9ff4e70_0 {0 0 0};
+    %end;
+    .thread T_7;
+    .scope S_0x5569a9fc1d60;
+T_8 ;
+    %load/vec4 v0x5569a9ff4fd0_0;
+    %parti/u 32, 64, 32;
+    %cmpi/ne 0, 0, 32;
+    %jmp/0xz  T_8.0, 4;
+    %load/vec4 v0x5569a9ff4fd0_0;
+    %parti/u 32, 64, 32;
+    %load/vec4 v0x5569a9ff4fd0_0;
+    %parti/u 32, 32, 32;
+    %vpi_call/w 3 96 "$display", "Hint: Output '%s' has %0d mismatches. First mismatch occurred at time %0d.", "out", S<1,vec4,s32>, S<0,vec4,s32> {2 0 0};
+    %jmp T_8.1;
+T_8.0 ;
+    %vpi_call/w 3 97 "$display", "Hint: Output '%s' has no mismatches.", "out" {0 0 0};
+T_8.1 ;
+    %load/vec4 v0x5569a9ff4fd0_0;
+    %parti/u 32, 128, 32;
+    %load/vec4 v0x5569a9ff4fd0_0;
+    %parti/u 32, 0, 32;
+    %vpi_call/w 3 99 "$display", "Hint: Total mismatched samples is %1d out of %1d samples\012", S<1,vec4,s32>, S<0,vec4,s32> {2 0 0};
+    %vpi_call/w 3 100 "$display", "Simulation finished at %0d ps", $time {0 0 0};
+    %load/vec4 v0x5569a9ff4fd0_0;
+    %parti/u 32, 128, 32;
+    %load/vec4 v0x5569a9ff4fd0_0;
+    %parti/u 32, 0, 32;
+    %vpi_call/w 3 101 "$display", "Mismatches: %1d in %1d samples", S<1,vec4,s32>, S<0,vec4,s32> {2 0 0};
+    %end;
+    .thread T_8, $final;
+    .scope S_0x5569a9fc1d60;
+T_9 ;
+    %wait E_0x5569a9fd6250;
+    ; show_stmt_assign_vector: Get l-value for compressed += operand
+    %load/vec4 v0x5569a9ff4fd0_0;
+    %pushi/vec4 0, 0, 32;
+    %part/u 32;
+    %pushi/vec4 1, 0, 32;
+    %add;
+    %cast2;
+    %ix/load 4, 0, 0;
+    %flag_set/imm 4, 0;
+    %store/vec4 v0x5569a9ff4fd0_0, 4, 32;
+    %load/vec4 v0x5569a9ff5150_0;
+    %nor/r;
+    %flag_set/vec4 8;
+    %jmp/0xz  T_9.0, 8;
+    %load/vec4 v0x5569a9ff4fd0_0;
+    %parti/u 32, 128, 32;
+    %cmpi/e 0, 0, 32;
+    %jmp/0xz  T_9.2, 4;
+    %vpi_func 3 112 "$time" 64 {0 0 0};
+    %cast2;
+    %pad/u 32;
+    %ix/load 4, 96, 0;
+    %flag_set/imm 4, 0;
+    %store/vec4 v0x5569a9ff4fd0_0, 4, 32;
+T_9.2 ;
+    ; show_stmt_assign_vector: Get l-value for compressed += operand
+    %load/vec4 v0x5569a9ff4fd0_0;
+    %pushi/vec4 128, 0, 32;
+    %part/u 32;
+    %pushi/vec4 1, 0, 32;
+    %add;
+    %cast2;
+    %ix/load 4, 128, 0;
+    %flag_set/imm 4, 0;
+    %store/vec4 v0x5569a9ff4fd0_0, 4, 32;
+T_9.0 ;
+    %load/vec4 v0x5569a9ff4f30_0;
+    %load/vec4 v0x5569a9ff4f30_0;
+    %load/vec4 v0x5569a9ff4e70_0;
+    %xor;
+    %load/vec4 v0x5569a9ff4f30_0;
+    %xor;
+    %cmp/ne;
+    %jmp/0xz  T_9.4, 6;
+    %load/vec4 v0x5569a9ff4fd0_0;
+    %parti/u 32, 64, 32;
+    %cmpi/e 0, 0, 32;
+    %jmp/0xz  T_9.6, 4;
+    %vpi_func 3 116 "$time" 64 {0 0 0};
+    %cast2;
+    %pad/u 32;
+    %ix/load 4, 32, 0;
+    %flag_set/imm 4, 0;
+    %store/vec4 v0x5569a9ff4fd0_0, 4, 32;
+T_9.6 ;
+    %load/vec4 v0x5569a9ff4fd0_0;
+    %parti/u 32, 64, 32;
+    %addi 1, 0, 32;
+    %cast2;
+    %ix/load 4, 64, 0;
+    %flag_set/imm 4, 0;
+    %store/vec4 v0x5569a9ff4fd0_0, 4, 32;
+T_9.4 ;
+    %jmp T_9;
+    .thread T_9;
+    .scope S_0x5569a9fc1d60;
+T_10 ;
+    %delay 1000000, 0;
+    %vpi_call/w 3 124 "$display", "TIMEOUT" {0 0 0};
+    %vpi_call/w 3 125 "$finish" {0 0 0};
+    %end;
+    .thread T_10;
+# The file index is used to find the file name in the following table.
+:file_names 6;
+    "N/A";
+    "<interactive>";
+    "-";
+    "../dataset_spec-to-rtl/Prob004_vector2_test.sv";
+    "../dataset_spec-to-rtl/Prob004_vector2_ref.sv";
+    "Prob004_vector2/Prob004_vector2_sample01.sv";

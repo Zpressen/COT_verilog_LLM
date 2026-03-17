@@ -1,0 +1,4 @@
+../dataset_spec-to-rtl/Prob149_ece241_2013_q4_test.sv:1: error: Can not assign non-array identifier `s` to array.
+../dataset_spec-to-rtl/Prob149_ece241_2013_q4_test.sv:1:      : Port 3 (s) of TopModule is connected to s
+1 error(s) during elaboration.
+timeout: failed to run command ‘./Prob149_ece241_2013_q4/Prob149_ece241_2013_q4_sample01’: No such file or directory

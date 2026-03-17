@@ -1,0 +1,40 @@
+RTLLM v1.1 Icarus Verilog Evaluation Result
+Test dirs: ['t1']
+Samples(n): 1
+pass@k: 1
+
+accu: syntax=1, func=0
+adder_8bit: syntax=1, func=1
+adder_16bit: syntax=0, func=0
+adder_32bit: syntax=0, func=0
+adder_pipe_64bit: syntax=0, func=0
+asyn_fifo: syntax=0, func=0
+calendar: syntax=1, func=1
+counter_12: syntax=1, func=1
+edge_detect: syntax=0, func=0
+freq_div: syntax=0, func=0
+fsm: syntax=0, func=0
+JC_counter: syntax=0, func=0
+multi_16bit: syntax=0, func=0
+multi_booth_8bit: syntax=0, func=0
+multi_pipe_4bit: syntax=0, func=0
+multi_pipe_8bit: syntax=0, func=0
+parallel2serial: syntax=0, func=0
+pe: syntax=0, func=0
+pulse_detect: syntax=0, func=0
+radix2_div: syntax=0, func=0
+RAM: syntax=0, func=0
+right_shifter: syntax=0, func=0
+serial2parallel: syntax=0, func=0
+signal_generator: syntax=0, func=0
+synchronizer: syntax=0, func=0
+alu: syntax=0, func=0
+div_16bit: syntax=0, func=0
+traffic_light: syntax=0, func=0
+width_8to16: syntax=0, func=0
+
+=== Summary ===
+syntax pass@1: 0.133333
+func   pass@1: 0.100000
+syntax success: 4/29
+func   success: 3/29

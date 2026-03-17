@@ -1,0 +1,7 @@
+VCD info: dumpfile wave.vcd opened for output.
+../dataset_code-complete-iccad2023/Prob118_history_shift_test.sv:104: $finish called at 10276 (1ps)
+Hint: Output 'predict_history' has 1903 mismatches. First mismatch occurred at time 40.
+Hint: Total mismatched samples is 1903 out of 2055 samples
+
+Simulation finished at 10276 ps
+Mismatches: 1903 in 2055 samples

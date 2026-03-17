@@ -1,0 +1,8 @@
+Prob137_fsm_serial/Prob137_fsm_serial_sample01.sv:38: error: Unable to bind wire/reg/memory `next_cnt' in `tb.top_module1'
+Prob137_fsm_serial/Prob137_fsm_serial_sample01.sv:39: error: Unable to bind wire/reg/memory `next_data_reg' in `tb.top_module1'
+Prob137_fsm_serial/Prob137_fsm_serial_sample01.sv:46: error: Could not find variable ``next_cnt'' in ``tb.top_module1''
+Prob137_fsm_serial/Prob137_fsm_serial_sample01.sv:47: error: Could not find variable ``next_data_reg'' in ``tb.top_module1''
+Prob137_fsm_serial/Prob137_fsm_serial_sample01.sv:60: error: Could not find variable ``next_data_reg'' in ``tb.top_module1''
+Prob137_fsm_serial/Prob137_fsm_serial_sample01.sv:61: error: Could not find variable ``next_cnt'' in ``tb.top_module1''
+6 error(s) during elaboration.
+timeout: failed to run command ‘./Prob137_fsm_serial/Prob137_fsm_serial_sample01’: No such file or directory

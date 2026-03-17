@@ -1,0 +1,12 @@
+Prob134_2014_q3c/Prob134_2014_q3c_sample01.sv:30: error: This assignment requires an explicit cast.
+Prob134_2014_q3c/Prob134_2014_q3c_sample01.sv:31: error: This assignment requires an explicit cast.
+Prob134_2014_q3c/Prob134_2014_q3c_sample01.sv:32: error: This assignment requires an explicit cast.
+Prob134_2014_q3c/Prob134_2014_q3c_sample01.sv:33: error: This assignment requires an explicit cast.
+Prob134_2014_q3c/Prob134_2014_q3c_sample01.sv:34: error: This assignment requires an explicit cast.
+Prob134_2014_q3c/Prob134_2014_q3c_sample01.sv:35: error: This assignment requires an explicit cast.
+Prob134_2014_q3c/Prob134_2014_q3c_sample01.sv:36: error: This assignment requires an explicit cast.
+Prob134_2014_q3c/Prob134_2014_q3c_sample01.sv:37: error: This assignment requires an explicit cast.
+../dataset_spec-to-rtl/Prob134_2014_q3c_test.sv:75: warning: Port 3 (y) of TopModule expects 1 bits, got 3.
+../dataset_spec-to-rtl/Prob134_2014_q3c_test.sv:75:        : Pruning 2 high bits of the expression.
+8 error(s) during elaboration.
+timeout: failed to run command ‘./Prob134_2014_q3c/Prob134_2014_q3c_sample01’: No such file or directory

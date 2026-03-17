@@ -1,0 +1,7 @@
+Prob030_popcount255/Prob030_popcount255_sample01.sv:16: syntax error
+Prob030_popcount255/Prob030_popcount255_sample01.sv:16: error: Invalid module instantiation
+Prob030_popcount255/Prob030_popcount255_sample01.sv:21: warning: implicit definition of wire 'pc0_out'.
+Prob030_popcount255/Prob030_popcount255_sample01.sv:22: warning: implicit definition of wire 'pc1_out'.
+Prob030_popcount255/Prob030_popcount255_sample01.sv:23: warning: implicit definition of wire 'pc2_out'.
+Prob030_popcount255/Prob030_popcount255_sample01.sv:24: warning: implicit definition of wire 'pc3_out'.
+timeout: failed to run command ‘./Prob030_popcount255/Prob030_popcount255_sample01’: No such file or directory

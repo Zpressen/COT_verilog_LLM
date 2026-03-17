@@ -1,0 +1,9 @@
+VCD info: dumpfile wave.vcd opened for output.
+../dataset_spec-to-rtl/Prob140_fsm_hdlc_test.sv:20: $finish called at 4006 (1ps)
+Hint: Output 'disc' has 34 mismatches. First mismatch occurred at time 70.
+Hint: Output 'flag' has 464 mismatches. First mismatch occurred at time 80.
+Hint: Output 'err' has 248 mismatches. First mismatch occurred at time 240.
+Hint: Total mismatched samples is 492 out of 801 samples
+
+Simulation finished at 4006 ps
+Mismatches: 492 in 801 samples

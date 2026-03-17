@@ -1,0 +1,7 @@
+Prob093_ece241_2014_q3/Prob093_ece241_2014_q3_sample01.sv:10: error: Concatenation operand "'sd0" has indefinite width.
+Prob093_ece241_2014_q3/Prob093_ece241_2014_q3_sample01.sv:10: error: Concatenation operand "'sd0" has indefinite width.
+Prob093_ece241_2014_q3/Prob093_ece241_2014_q3_sample01.sv:10: error: Concatenation operand "'sd1" has indefinite width.
+Prob093_ece241_2014_q3/Prob093_ece241_2014_q3_sample01.sv:10: error: Concatenation operand "'sd1" has indefinite width.
+Prob093_ece241_2014_q3/Prob093_ece241_2014_q3_sample01.sv:10: error: Unable to elaborate r-value: {'sd0, 'sd0, 'sd1, 'sd1}
+5 error(s) during elaboration.
+timeout: failed to run command ‘./Prob093_ece241_2014_q3/Prob093_ece241_2014_q3_sample01’: No such file or directory

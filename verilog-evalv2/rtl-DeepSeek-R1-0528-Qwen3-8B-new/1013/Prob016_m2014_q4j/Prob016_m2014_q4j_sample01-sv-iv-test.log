@@ -1,0 +1,3 @@
+Prob016_m2014_q4j/Prob016_m2014_q4j_sample01.sv:15: error: Unresolved net/uwire sum cannot have multiple drivers.
+1 error(s) during elaboration.
+timeout: failed to run command ‘./Prob016_m2014_q4j/Prob016_m2014_q4j_sample01’: No such file or directory

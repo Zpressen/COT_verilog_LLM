@@ -1,0 +1,11 @@
+../dataset_spec-to-rtl/Prob118_history_shift_test.sv:168: warning: Port 7 (train_history) of TopModule expects 1 bits, got 32.
+../dataset_spec-to-rtl/Prob118_history_shift_test.sv:168:        : Pruning 31 high bits of the expression.
+../dataset_spec-to-rtl/Prob118_history_shift_test.sv:168: warning: Port 8 (predict_history) of TopModule expects 1 bits, got 32.
+../dataset_spec-to-rtl/Prob118_history_shift_test.sv:168:        : Padding 31 high bits of the expression.
+VCD info: dumpfile wave.vcd opened for output.
+../dataset_spec-to-rtl/Prob118_history_shift_test.sv:104: $finish called at 10276 (1ps)
+Hint: Output 'predict_history' has 2035 mismatches. First mismatch occurred at time 40.
+Hint: Total mismatched samples is 2035 out of 2055 samples
+
+Simulation finished at 10276 ps
+Mismatches: 2035 in 2055 samples

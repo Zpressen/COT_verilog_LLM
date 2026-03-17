@@ -1,0 +1,7 @@
+VCD info: dumpfile wave.vcd opened for output.
+../dataset_code-complete-iccad2023/Prob133_2014_q3fsm_test.sv:59: $finish called at 7071 (1ps)
+Hint: Output 'z' has 177 mismatches. First mismatch occurred at time 80.
+Hint: Total mismatched samples is 177 out of 1414 samples
+
+Simulation finished at 7071 ps
+Mismatches: 177 in 1414 samples

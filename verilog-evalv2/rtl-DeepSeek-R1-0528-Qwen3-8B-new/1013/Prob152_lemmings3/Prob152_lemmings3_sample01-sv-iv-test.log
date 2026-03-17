@@ -1,0 +1,26 @@
+Prob152_lemmings3/Prob152_lemmings3_sample01.sv:30: error: walk_left is not a valid l-value in tb.top_module1.
+Prob152_lemmings3/Prob152_lemmings3_sample01.sv:10:      : walk_left is declared here as wire.
+Prob152_lemmings3/Prob152_lemmings3_sample01.sv:31: error: walk_right is not a valid l-value in tb.top_module1.
+Prob152_lemmings3/Prob152_lemmings3_sample01.sv:11:      : walk_right is declared here as wire.
+Prob152_lemmings3/Prob152_lemmings3_sample01.sv:32: error: aaah is not a valid l-value in tb.top_module1.
+Prob152_lemmings3/Prob152_lemmings3_sample01.sv:12:      : aaah is declared here as wire.
+Prob152_lemmings3/Prob152_lemmings3_sample01.sv:33: error: digging is not a valid l-value in tb.top_module1.
+Prob152_lemmings3/Prob152_lemmings3_sample01.sv:13:      : digging is declared here as wire.
+Prob152_lemmings3/Prob152_lemmings3_sample01.sv:40: error: aaah is not a valid l-value in tb.top_module1.
+Prob152_lemmings3/Prob152_lemmings3_sample01.sv:12:      : aaah is declared here as wire.
+Prob152_lemmings3/Prob152_lemmings3_sample01.sv:43: error: digging is not a valid l-value in tb.top_module1.
+Prob152_lemmings3/Prob152_lemmings3_sample01.sv:13:      : digging is declared here as wire.
+Prob152_lemmings3/Prob152_lemmings3_sample01.sv:46: error: walk_right is not a valid l-value in tb.top_module1.
+Prob152_lemmings3/Prob152_lemmings3_sample01.sv:11:      : walk_right is declared here as wire.
+Prob152_lemmings3/Prob152_lemmings3_sample01.sv:53: error: aaah is not a valid l-value in tb.top_module1.
+Prob152_lemmings3/Prob152_lemmings3_sample01.sv:12:      : aaah is declared here as wire.
+Prob152_lemmings3/Prob152_lemmings3_sample01.sv:56: error: digging is not a valid l-value in tb.top_module1.
+Prob152_lemmings3/Prob152_lemmings3_sample01.sv:13:      : digging is declared here as wire.
+Prob152_lemmings3/Prob152_lemmings3_sample01.sv:59: error: walk_left is not a valid l-value in tb.top_module1.
+Prob152_lemmings3/Prob152_lemmings3_sample01.sv:10:      : walk_left is declared here as wire.
+Prob152_lemmings3/Prob152_lemmings3_sample01.sv:74: error: aaah is not a valid l-value in tb.top_module1.
+Prob152_lemmings3/Prob152_lemmings3_sample01.sv:12:      : aaah is declared here as wire.
+Prob152_lemmings3/Prob152_lemmings3_sample01.sv:77: error: digging is not a valid l-value in tb.top_module1.
+Prob152_lemmings3/Prob152_lemmings3_sample01.sv:13:      : digging is declared here as wire.
+12 error(s) during elaboration.
+timeout: failed to run command ‘./Prob152_lemmings3/Prob152_lemmings3_sample01’: No such file or directory

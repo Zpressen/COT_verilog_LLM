@@ -1,0 +1,11 @@
+Prob131_mt2015_q4/Prob131_mt2015_q4_sample01.sv:9: warning: implicit definition of wire 'A1_out'.
+Prob131_mt2015_q4/Prob131_mt2015_q4_sample01.sv:10: warning: implicit definition of wire 'B1_out'.
+Prob131_mt2015_q4/Prob131_mt2015_q4_sample01.sv:13: warning: implicit definition of wire 'A2_out'.
+Prob131_mt2015_q4/Prob131_mt2015_q4_sample01.sv:14: warning: implicit definition of wire 'B2_out'.
+VCD info: dumpfile wave.vcd opened for output.
+../dataset_spec-to-rtl/Prob131_mt2015_q4_test.sv:17: $finish called at 1001 (1ps)
+Hint: Output 'z' has no mismatches.
+Hint: Total mismatched samples is 0 out of 200 samples
+
+Simulation finished at 1001 ps
+Mismatches: 0 in 200 samples

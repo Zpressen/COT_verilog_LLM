@@ -1,0 +1,6 @@
+Prob111_fsm2s/Prob111_fsm2s_sample01.sv:21: error: Unable to bind wire/reg/memory `next_state' in `tb.top_module1'
+Prob111_fsm2s/Prob111_fsm2s_sample01.sv:27: error: Could not find variable ``next_state'' in ``tb.top_module1''
+Prob111_fsm2s/Prob111_fsm2s_sample01.sv:28: error: Could not find variable ``next_state'' in ``tb.top_module1''
+Prob111_fsm2s/Prob111_fsm2s_sample01.sv:29: error: Could not find variable ``next_state'' in ``tb.top_module1''
+4 error(s) during elaboration.
+timeout: failed to run command ‘./Prob111_fsm2s/Prob111_fsm2s_sample01’: No such file or directory

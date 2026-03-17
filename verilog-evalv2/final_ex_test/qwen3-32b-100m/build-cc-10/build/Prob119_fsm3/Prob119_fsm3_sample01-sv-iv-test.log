@@ -1,0 +1,6 @@
+Prob119_fsm3/Prob119_fsm3_sample01.sv:20: error: This assignment requires an explicit cast.
+Prob119_fsm3/Prob119_fsm3_sample01.sv:21: error: This assignment requires an explicit cast.
+Prob119_fsm3/Prob119_fsm3_sample01.sv:22: error: This assignment requires an explicit cast.
+Prob119_fsm3/Prob119_fsm3_sample01.sv:23: error: This assignment requires an explicit cast.
+4 error(s) during elaboration.
+timeout: failed to run command ‘./Prob119_fsm3/Prob119_fsm3_sample01’: No such file or directory

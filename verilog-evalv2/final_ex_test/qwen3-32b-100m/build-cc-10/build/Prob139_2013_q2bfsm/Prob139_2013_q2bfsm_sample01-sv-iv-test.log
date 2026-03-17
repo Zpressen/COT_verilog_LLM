@@ -1,0 +1,42 @@
+Prob139_2013_q2bfsm/Prob139_2013_q2bfsm_sample01.sv:34: error: f is not a valid l-value in tb.top_module1.
+Prob139_2013_q2bfsm/Prob139_2013_q2bfsm_sample01.sv:8:      : f is declared here as wire.
+Prob139_2013_q2bfsm/Prob139_2013_q2bfsm_sample01.sv:35: error: g is not a valid l-value in tb.top_module1.
+Prob139_2013_q2bfsm/Prob139_2013_q2bfsm_sample01.sv:9:      : g is declared here as wire.
+Prob139_2013_q2bfsm/Prob139_2013_q2bfsm_sample01.sv:41: error: f is not a valid l-value in tb.top_module1.
+Prob139_2013_q2bfsm/Prob139_2013_q2bfsm_sample01.sv:8:      : f is declared here as wire.
+Prob139_2013_q2bfsm/Prob139_2013_q2bfsm_sample01.sv:42: error: g is not a valid l-value in tb.top_module1.
+Prob139_2013_q2bfsm/Prob139_2013_q2bfsm_sample01.sv:9:      : g is declared here as wire.
+Prob139_2013_q2bfsm/Prob139_2013_q2bfsm_sample01.sv:46: error: f is not a valid l-value in tb.top_module1.
+Prob139_2013_q2bfsm/Prob139_2013_q2bfsm_sample01.sv:8:      : f is declared here as wire.
+Prob139_2013_q2bfsm/Prob139_2013_q2bfsm_sample01.sv:47: error: g is not a valid l-value in tb.top_module1.
+Prob139_2013_q2bfsm/Prob139_2013_q2bfsm_sample01.sv:9:      : g is declared here as wire.
+Prob139_2013_q2bfsm/Prob139_2013_q2bfsm_sample01.sv:52: error: f is not a valid l-value in tb.top_module1.
+Prob139_2013_q2bfsm/Prob139_2013_q2bfsm_sample01.sv:8:      : f is declared here as wire.
+Prob139_2013_q2bfsm/Prob139_2013_q2bfsm_sample01.sv:53: error: g is not a valid l-value in tb.top_module1.
+Prob139_2013_q2bfsm/Prob139_2013_q2bfsm_sample01.sv:9:      : g is declared here as wire.
+Prob139_2013_q2bfsm/Prob139_2013_q2bfsm_sample01.sv:58: error: f is not a valid l-value in tb.top_module1.
+Prob139_2013_q2bfsm/Prob139_2013_q2bfsm_sample01.sv:8:      : f is declared here as wire.
+Prob139_2013_q2bfsm/Prob139_2013_q2bfsm_sample01.sv:59: error: g is not a valid l-value in tb.top_module1.
+Prob139_2013_q2bfsm/Prob139_2013_q2bfsm_sample01.sv:9:      : g is declared here as wire.
+Prob139_2013_q2bfsm/Prob139_2013_q2bfsm_sample01.sv:64: error: f is not a valid l-value in tb.top_module1.
+Prob139_2013_q2bfsm/Prob139_2013_q2bfsm_sample01.sv:8:      : f is declared here as wire.
+Prob139_2013_q2bfsm/Prob139_2013_q2bfsm_sample01.sv:65: error: g is not a valid l-value in tb.top_module1.
+Prob139_2013_q2bfsm/Prob139_2013_q2bfsm_sample01.sv:9:      : g is declared here as wire.
+Prob139_2013_q2bfsm/Prob139_2013_q2bfsm_sample01.sv:70: error: f is not a valid l-value in tb.top_module1.
+Prob139_2013_q2bfsm/Prob139_2013_q2bfsm_sample01.sv:8:      : f is declared here as wire.
+Prob139_2013_q2bfsm/Prob139_2013_q2bfsm_sample01.sv:71: error: g is not a valid l-value in tb.top_module1.
+Prob139_2013_q2bfsm/Prob139_2013_q2bfsm_sample01.sv:9:      : g is declared here as wire.
+Prob139_2013_q2bfsm/Prob139_2013_q2bfsm_sample01.sv:76: error: f is not a valid l-value in tb.top_module1.
+Prob139_2013_q2bfsm/Prob139_2013_q2bfsm_sample01.sv:8:      : f is declared here as wire.
+Prob139_2013_q2bfsm/Prob139_2013_q2bfsm_sample01.sv:77: error: g is not a valid l-value in tb.top_module1.
+Prob139_2013_q2bfsm/Prob139_2013_q2bfsm_sample01.sv:9:      : g is declared here as wire.
+Prob139_2013_q2bfsm/Prob139_2013_q2bfsm_sample01.sv:81: error: f is not a valid l-value in tb.top_module1.
+Prob139_2013_q2bfsm/Prob139_2013_q2bfsm_sample01.sv:8:      : f is declared here as wire.
+Prob139_2013_q2bfsm/Prob139_2013_q2bfsm_sample01.sv:82: error: g is not a valid l-value in tb.top_module1.
+Prob139_2013_q2bfsm/Prob139_2013_q2bfsm_sample01.sv:9:      : g is declared here as wire.
+Prob139_2013_q2bfsm/Prob139_2013_q2bfsm_sample01.sv:86: error: f is not a valid l-value in tb.top_module1.
+Prob139_2013_q2bfsm/Prob139_2013_q2bfsm_sample01.sv:8:      : f is declared here as wire.
+Prob139_2013_q2bfsm/Prob139_2013_q2bfsm_sample01.sv:87: error: g is not a valid l-value in tb.top_module1.
+Prob139_2013_q2bfsm/Prob139_2013_q2bfsm_sample01.sv:9:      : g is declared here as wire.
+20 error(s) during elaboration.
+timeout: failed to run command ‘./Prob139_2013_q2bfsm/Prob139_2013_q2bfsm_sample01’: No such file or directory

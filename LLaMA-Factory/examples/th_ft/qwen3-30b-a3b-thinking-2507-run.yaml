@@ -1,0 +1,47 @@
+### model
+model_name_or_path: /home/tanhao/Qwen3-30B-A3B-Thinking-2507
+trust_remote_code: true
+
+### method
+stage: sft
+do_train: true
+finetuning_type: lora
+lora_rank: 32
+lora_alpha: 64
+lora_dropout: 0.05
+lora_target: q_proj,v_proj,k_proj,o_proj
+deepspeed: examples/deepspeed/ds_z3_config.json  # choices: [ds_z0_config.json, ds_z2_config.json, ds_z3_config.json]
+
+### dataset
+dataset: completed_cot_dataset-50m
+template: qwen3
+cutoff_len: 4096
+max_samples: 100000
+overwrite_cache: true
+preprocessing_num_workers: 32
+dataloader_num_workers: 32
+
+### output
+output_dir: /home/tanhao/project1/src/checkpoints_qwen3-30B-A3B-thinking-2507/qwen-0922
+logging_steps: 10
+save_steps: 500
+plot_loss: true
+overwrite_output_dir: true
+save_only_model: false
+report_to: wandb  # choices: [none, wandb, tensorboard, swanlab, mlflow]
+
+### train
+per_device_train_batch_size: 2
+gradient_accumulation_steps: 8
+learning_rate: 5e-5
+num_train_epochs: 1
+weight_decay: 0.01
+lr_scheduler_type: cosine
+warmup_ratio: 0.1
+bf16: true
+ddp_timeout: 180000000
+resume_from_checkpoint: null
+enable_thinking: true
+gradient_checkpointing: true
+group_by_length: true
+max_grad_norm: 1.0

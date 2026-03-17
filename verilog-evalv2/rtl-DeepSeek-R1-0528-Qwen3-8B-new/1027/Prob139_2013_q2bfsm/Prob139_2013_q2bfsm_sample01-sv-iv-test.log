@@ -1,0 +1,7 @@
+Prob139_2013_q2bfsm/Prob139_2013_q2bfsm_sample01.sv:12: error: 'f' has already been declared in this scope.
+Prob139_2013_q2bfsm/Prob139_2013_q2bfsm_sample01.sv:7:      : It was declared here as a net.
+Prob139_2013_q2bfsm/Prob139_2013_q2bfsm_sample01.sv:13: error: 'g' has already been declared in this scope.
+Prob139_2013_q2bfsm/Prob139_2013_q2bfsm_sample01.sv:8:      : It was declared here as a net.
+Prob139_2013_q2bfsm/Prob139_2013_q2bfsm_sample01.sv:33: warning: Extra digits given for sized binary constant.
+Prob139_2013_q2bfsm/Prob139_2013_q2bfsm_sample01.sv:33: warning: Numeric constant truncated to 2 bits.
+timeout: failed to run command ‘./Prob139_2013_q2bfsm/Prob139_2013_q2bfsm_sample01’: No such file or directory

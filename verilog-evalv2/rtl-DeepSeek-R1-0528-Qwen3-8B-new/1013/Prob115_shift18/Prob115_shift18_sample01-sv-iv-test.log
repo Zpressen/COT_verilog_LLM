@@ -1,0 +1,13 @@
+Prob115_shift18/Prob115_shift18_sample01.sv:24: syntax error
+Prob115_shift18/Prob115_shift18_sample01.sv:24: error: Syntax error in continuous assignment
+Prob115_shift18/Prob115_shift18_sample01.sv:26: syntax error
+Prob115_shift18/Prob115_shift18_sample01.sv:26: error: Invalid module item.
+Prob115_shift18/Prob115_shift18_sample01.sv:27: syntax error
+Prob115_shift18/Prob115_shift18_sample01.sv:27: error: Invalid module item.
+Prob115_shift18/Prob115_shift18_sample01.sv:28: syntax error
+Prob115_shift18/Prob115_shift18_sample01.sv:28: error: Invalid module item.
+Prob115_shift18/Prob115_shift18_sample01.sv:29: syntax error
+Prob115_shift18/Prob115_shift18_sample01.sv:29: error: Invalid module item.
+Prob115_shift18/Prob115_shift18_sample01.sv:30: syntax error
+Prob115_shift18/Prob115_shift18_sample01.sv:32: error: Invalid module item.
+timeout: failed to run command ‘./Prob115_shift18/Prob115_shift18_sample01’: No such file or directory

@@ -1,0 +1,5 @@
+Prob074_ece241_2014_q4/Prob074_ece241_2014_q4_sample01.sv:19: error: q1 Unable to assign to unresolved wires.
+Prob074_ece241_2014_q4/Prob074_ece241_2014_q4_sample01.sv:20: error: q2 Unable to assign to unresolved wires.
+Prob074_ece241_2014_q4/Prob074_ece241_2014_q4_sample01.sv:21: error: q3 Unable to assign to unresolved wires.
+3 error(s) during elaboration.
+timeout: failed to run command ‘./Prob074_ece241_2014_q4/Prob074_ece241_2014_q4_sample01’: No such file or directory

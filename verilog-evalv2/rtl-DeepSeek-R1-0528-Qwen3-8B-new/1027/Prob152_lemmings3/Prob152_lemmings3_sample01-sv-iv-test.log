@@ -1,0 +1,10 @@
+VCD info: dumpfile wave.vcd opened for output.
+../dataset_spec-to-rtl/Prob152_lemmings3_test.sv:94: $finish called at 2216 (1ps)
+Hint: Output 'walk_left' has 76 mismatches. First mismatch occurred at time 190.
+Hint: Output 'walk_right' has 68 mismatches. First mismatch occurred at time 240.
+Hint: Output 'aaah' has 96 mismatches. First mismatch occurred at time 160.
+Hint: Output 'digging' has 104 mismatches. First mismatch occurred at time 160.
+Hint: Total mismatched samples is 172 out of 443 samples
+
+Simulation finished at 2216 ps
+Mismatches: 172 in 443 samples

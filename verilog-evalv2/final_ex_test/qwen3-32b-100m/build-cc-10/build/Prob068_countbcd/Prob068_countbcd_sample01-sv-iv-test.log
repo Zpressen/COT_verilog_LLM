@@ -1,0 +1,10 @@
+Prob068_countbcd/Prob068_countbcd_sample01.sv:13: error: ena is not a valid l-value in tb.top_module1.
+Prob068_countbcd/Prob068_countbcd_sample01.sv:6:      : ena is declared here as wire.
+Prob068_countbcd/Prob068_countbcd_sample01.sv:70: error: ena['sd1] is not a valid l-value in tb.top_module1.$unm_blk_3.
+Prob068_countbcd/Prob068_countbcd_sample01.sv:6:      : ena['sd1] is declared here as wire.
+Prob068_countbcd/Prob068_countbcd_sample01.sv:71: error: ena['sd2] is not a valid l-value in tb.top_module1.$unm_blk_3.
+Prob068_countbcd/Prob068_countbcd_sample01.sv:6:      : ena['sd2] is declared here as wire.
+Prob068_countbcd/Prob068_countbcd_sample01.sv:72: error: ena['sd3] is not a valid l-value in tb.top_module1.$unm_blk_3.
+Prob068_countbcd/Prob068_countbcd_sample01.sv:6:      : ena['sd3] is declared here as wire.
+4 error(s) during elaboration.
+timeout: failed to run command ‘./Prob068_countbcd/Prob068_countbcd_sample01’: No such file or directory

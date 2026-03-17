@@ -1,0 +1,2 @@
+=========== Test completed with         100 / 100 failures ===========
+testbench.v:47: $finish called at 2800 (1s)

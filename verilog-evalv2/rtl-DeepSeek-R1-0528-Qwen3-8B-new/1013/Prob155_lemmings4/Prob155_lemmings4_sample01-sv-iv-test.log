@@ -1,0 +1,9 @@
+Prob155_lemmings4/Prob155_lemmings4_sample01.sv:33: error: walk_left Unable to assign to unresolved wires.
+Prob155_lemmings4/Prob155_lemmings4_sample01.sv:34: error: walk_right Unable to assign to unresolved wires.
+Prob155_lemmings4/Prob155_lemmings4_sample01.sv:35: error: aaah Unable to assign to unresolved wires.
+Prob155_lemmings4/Prob155_lemmings4_sample01.sv:36: error: digging Unable to assign to unresolved wires.
+Prob155_lemmings4/Prob155_lemmings4_sample01.sv:41: error: walk_left Unable to assign to unresolved wires.
+Prob155_lemmings4/Prob155_lemmings4_sample01.sv:65: warning: A non-blocking assignment should not be used in an always_comb process.
+Prob155_lemmings4/Prob155_lemmings4_sample01.sv:71: warning: A non-blocking assignment should not be used in an always_comb process.
+5 error(s) during elaboration.
+timeout: failed to run command ‘./Prob155_lemmings4/Prob155_lemmings4_sample01’: No such file or directory

@@ -1,0 +1,7 @@
+VCD info: dumpfile wave.vcd opened for output.
+../dataset_spec-to-rtl/Prob066_edgecapture_test.sv:86: $finish called at 1330 (1ps)
+Hint: Output 'out' has 139 mismatches. First mismatch occurred at time 40.
+Hint: Total mismatched samples is 139 out of 266 samples
+
+Simulation finished at 1330 ps
+Mismatches: 139 in 266 samples

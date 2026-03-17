@@ -1,0 +1,6 @@
+Prob078_dualedge/Prob078_dualedge_sample01.sv:9: error: q is not a valid l-value in tb.top_module1.
+Prob078_dualedge/Prob078_dualedge_sample01.sv:5:      : q is declared here as wire.
+Prob078_dualedge/Prob078_dualedge_sample01.sv:13: error: q is not a valid l-value in tb.top_module1.
+Prob078_dualedge/Prob078_dualedge_sample01.sv:5:      : q is declared here as wire.
+2 error(s) during elaboration.
+timeout: failed to run command ‘./Prob078_dualedge/Prob078_dualedge_sample01’: No such file or directory

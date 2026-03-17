@@ -1,0 +1,6 @@
+Prob058_alwaysblock2/Prob058_alwaysblock2_sample01.sv:14: error: out_always_comb is not a valid l-value in tb.top_module1.
+Prob058_alwaysblock2/Prob058_alwaysblock2_sample01.sv:7:      : out_always_comb is declared here as wire.
+Prob058_alwaysblock2/Prob058_alwaysblock2_sample01.sv:20: error: out_always_ff is not a valid l-value in tb.top_module1.
+Prob058_alwaysblock2/Prob058_alwaysblock2_sample01.sv:8:      : out_always_ff is declared here as wire.
+2 error(s) during elaboration.
+timeout: failed to run command ‘./Prob058_alwaysblock2/Prob058_alwaysblock2_sample01’: No such file or directory

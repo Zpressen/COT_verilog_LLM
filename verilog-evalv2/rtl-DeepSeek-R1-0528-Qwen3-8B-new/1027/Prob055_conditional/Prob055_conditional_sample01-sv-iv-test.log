@@ -1,0 +1,4 @@
+Prob055_conditional/Prob055_conditional_sample01.sv:13: error: Unresolved net/uwire min cannot have multiple drivers.
+Prob055_conditional/Prob055_conditional_sample01.sv:14: error: Unresolved net/uwire min cannot have multiple drivers.
+2 error(s) during elaboration.
+timeout: failed to run command ‘./Prob055_conditional/Prob055_conditional_sample01’: No such file or directory

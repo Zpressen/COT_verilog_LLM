@@ -1,0 +1,5 @@
+Prob053_m2014_q4d/Prob053_m2014_q4d_sample01.sv:26: error: q is not a valid l-value in tb.top_module1.dff.
+Prob053_m2014_q4d/Prob053_m2014_q4d_sample01.sv:22:      : q is declared here as wire.
+../dataset_spec-to-rtl/Prob053_m2014_q4d_test.sv:68: warning: output port out is coerced to inout.
+1 error(s) during elaboration.
+timeout: failed to run command ‘./Prob053_m2014_q4d/Prob053_m2014_q4d_sample01’: No such file or directory

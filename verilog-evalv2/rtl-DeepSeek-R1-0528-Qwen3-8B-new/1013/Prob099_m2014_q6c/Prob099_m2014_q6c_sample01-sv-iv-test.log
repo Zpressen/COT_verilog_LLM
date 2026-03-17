@@ -1,0 +1,6 @@
+../dataset_spec-to-rtl/Prob099_m2014_q6c_test.sv:71: error: port ``Y2'' is not a port of good1.
+../dataset_spec-to-rtl/Prob099_m2014_q6c_test.sv:71: error: port ``Y4'' is not a port of good1.
+../dataset_spec-to-rtl/Prob099_m2014_q6c_test.sv:1: error: Can not assign non-array identifier `y` to array.
+../dataset_spec-to-rtl/Prob099_m2014_q6c_test.sv:1:      : Port 1 (y) of TopModule is connected to y
+3 error(s) during elaboration.
+timeout: failed to run command ‘./Prob099_m2014_q6c/Prob099_m2014_q6c_sample01’: No such file or directory

@@ -1,0 +1,7 @@
+Prob133_2014_q3fsm/Prob133_2014_q3fsm_sample01.sv:15: error: Unable to bind wire/reg/memory `count' in `tb.top_module1'
+Prob133_2014_q3fsm/Prob133_2014_q3fsm_sample01.sv:15: error: Unable to elaborate r-value: (((current_state)==(B))&&((count)==('sd2)))?(1'd1):(1'd0)
+Prob133_2014_q3fsm/Prob133_2014_q3fsm_sample01.sv:21: error: Could not find variable ``count'' in ``tb.top_module1''
+Prob133_2014_q3fsm/Prob133_2014_q3fsm_sample01.sv:30: error: Unable to bind wire/reg/memory `count' in `tb.top_module1'
+Prob133_2014_q3fsm/Prob133_2014_q3fsm_sample01.sv:30: error: Unable to elaborate condition expression.
+5 error(s) during elaboration.
+timeout: failed to run command ‘./Prob133_2014_q3fsm/Prob133_2014_q3fsm_sample01’: No such file or directory

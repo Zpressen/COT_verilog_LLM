@@ -1,0 +1,57 @@
+Prob151_review2015_fsm/Prob151_review2015_fsm_sample01.sv:29: error: shift_ena is not a valid l-value in tb.top_module1.
+Prob151_review2015_fsm/Prob151_review2015_fsm_sample01.sv:9:      : shift_ena is declared here as wire.
+Prob151_review2015_fsm/Prob151_review2015_fsm_sample01.sv:30: error: counting is not a valid l-value in tb.top_module1.
+Prob151_review2015_fsm/Prob151_review2015_fsm_sample01.sv:10:      : counting is declared here as wire.
+Prob151_review2015_fsm/Prob151_review2015_fsm_sample01.sv:31: error: done is not a valid l-value in tb.top_module1.
+Prob151_review2015_fsm/Prob151_review2015_fsm_sample01.sv:11:      : done is declared here as wire.
+Prob151_review2015_fsm/Prob151_review2015_fsm_sample01.sv:35: error: shift_ena is not a valid l-value in tb.top_module1.
+Prob151_review2015_fsm/Prob151_review2015_fsm_sample01.sv:9:      : shift_ena is declared here as wire.
+Prob151_review2015_fsm/Prob151_review2015_fsm_sample01.sv:36: error: counting is not a valid l-value in tb.top_module1.
+Prob151_review2015_fsm/Prob151_review2015_fsm_sample01.sv:10:      : counting is declared here as wire.
+Prob151_review2015_fsm/Prob151_review2015_fsm_sample01.sv:37: error: done is not a valid l-value in tb.top_module1.
+Prob151_review2015_fsm/Prob151_review2015_fsm_sample01.sv:11:      : done is declared here as wire.
+Prob151_review2015_fsm/Prob151_review2015_fsm_sample01.sv:45: error: shift_ena is not a valid l-value in tb.top_module1.
+Prob151_review2015_fsm/Prob151_review2015_fsm_sample01.sv:9:      : shift_ena is declared here as wire.
+Prob151_review2015_fsm/Prob151_review2015_fsm_sample01.sv:46: error: counting is not a valid l-value in tb.top_module1.
+Prob151_review2015_fsm/Prob151_review2015_fsm_sample01.sv:10:      : counting is declared here as wire.
+Prob151_review2015_fsm/Prob151_review2015_fsm_sample01.sv:47: error: done is not a valid l-value in tb.top_module1.
+Prob151_review2015_fsm/Prob151_review2015_fsm_sample01.sv:11:      : done is declared here as wire.
+Prob151_review2015_fsm/Prob151_review2015_fsm_sample01.sv:52: error: shift_ena is not a valid l-value in tb.top_module1.
+Prob151_review2015_fsm/Prob151_review2015_fsm_sample01.sv:9:      : shift_ena is declared here as wire.
+Prob151_review2015_fsm/Prob151_review2015_fsm_sample01.sv:53: error: counting is not a valid l-value in tb.top_module1.
+Prob151_review2015_fsm/Prob151_review2015_fsm_sample01.sv:10:      : counting is declared here as wire.
+Prob151_review2015_fsm/Prob151_review2015_fsm_sample01.sv:54: error: done is not a valid l-value in tb.top_module1.
+Prob151_review2015_fsm/Prob151_review2015_fsm_sample01.sv:11:      : done is declared here as wire.
+Prob151_review2015_fsm/Prob151_review2015_fsm_sample01.sv:59: error: shift_ena is not a valid l-value in tb.top_module1.
+Prob151_review2015_fsm/Prob151_review2015_fsm_sample01.sv:9:      : shift_ena is declared here as wire.
+Prob151_review2015_fsm/Prob151_review2015_fsm_sample01.sv:60: error: counting is not a valid l-value in tb.top_module1.
+Prob151_review2015_fsm/Prob151_review2015_fsm_sample01.sv:10:      : counting is declared here as wire.
+Prob151_review2015_fsm/Prob151_review2015_fsm_sample01.sv:61: error: done is not a valid l-value in tb.top_module1.
+Prob151_review2015_fsm/Prob151_review2015_fsm_sample01.sv:11:      : done is declared here as wire.
+Prob151_review2015_fsm/Prob151_review2015_fsm_sample01.sv:66: error: shift_ena is not a valid l-value in tb.top_module1.
+Prob151_review2015_fsm/Prob151_review2015_fsm_sample01.sv:9:      : shift_ena is declared here as wire.
+Prob151_review2015_fsm/Prob151_review2015_fsm_sample01.sv:67: error: counting is not a valid l-value in tb.top_module1.
+Prob151_review2015_fsm/Prob151_review2015_fsm_sample01.sv:10:      : counting is declared here as wire.
+Prob151_review2015_fsm/Prob151_review2015_fsm_sample01.sv:68: error: done is not a valid l-value in tb.top_module1.
+Prob151_review2015_fsm/Prob151_review2015_fsm_sample01.sv:11:      : done is declared here as wire.
+Prob151_review2015_fsm/Prob151_review2015_fsm_sample01.sv:73: error: shift_ena is not a valid l-value in tb.top_module1.
+Prob151_review2015_fsm/Prob151_review2015_fsm_sample01.sv:9:      : shift_ena is declared here as wire.
+Prob151_review2015_fsm/Prob151_review2015_fsm_sample01.sv:74: error: counting is not a valid l-value in tb.top_module1.
+Prob151_review2015_fsm/Prob151_review2015_fsm_sample01.sv:10:      : counting is declared here as wire.
+Prob151_review2015_fsm/Prob151_review2015_fsm_sample01.sv:75: error: done is not a valid l-value in tb.top_module1.
+Prob151_review2015_fsm/Prob151_review2015_fsm_sample01.sv:11:      : done is declared here as wire.
+Prob151_review2015_fsm/Prob151_review2015_fsm_sample01.sv:83: error: shift_ena is not a valid l-value in tb.top_module1.
+Prob151_review2015_fsm/Prob151_review2015_fsm_sample01.sv:9:      : shift_ena is declared here as wire.
+Prob151_review2015_fsm/Prob151_review2015_fsm_sample01.sv:84: error: counting is not a valid l-value in tb.top_module1.
+Prob151_review2015_fsm/Prob151_review2015_fsm_sample01.sv:10:      : counting is declared here as wire.
+Prob151_review2015_fsm/Prob151_review2015_fsm_sample01.sv:85: error: done is not a valid l-value in tb.top_module1.
+Prob151_review2015_fsm/Prob151_review2015_fsm_sample01.sv:11:      : done is declared here as wire.
+Prob151_review2015_fsm/Prob151_review2015_fsm_sample01.sv:93: error: shift_ena is not a valid l-value in tb.top_module1.
+Prob151_review2015_fsm/Prob151_review2015_fsm_sample01.sv:9:      : shift_ena is declared here as wire.
+Prob151_review2015_fsm/Prob151_review2015_fsm_sample01.sv:94: error: counting is not a valid l-value in tb.top_module1.
+Prob151_review2015_fsm/Prob151_review2015_fsm_sample01.sv:10:      : counting is declared here as wire.
+Prob151_review2015_fsm/Prob151_review2015_fsm_sample01.sv:95: error: done is not a valid l-value in tb.top_module1.
+Prob151_review2015_fsm/Prob151_review2015_fsm_sample01.sv:11:      : done is declared here as wire.
+../dataset_spec-to-rtl/Prob151_review2015_fsm_test.sv:144: warning: Instantiating module TopModule with dangling input port 6 (pattern_detected) floating.
+27 error(s) during elaboration.
+timeout: failed to run command ‘./Prob151_review2015_fsm/Prob151_review2015_fsm_sample01’: No such file or directory

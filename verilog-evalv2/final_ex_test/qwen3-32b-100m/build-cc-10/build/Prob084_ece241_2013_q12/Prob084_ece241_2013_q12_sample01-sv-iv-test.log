@@ -1,0 +1,15 @@
+Prob084_ece241_2013_q12/Prob084_ece241_2013_q12_sample01.sv:23: sorry: constant selects in always_* processes are not currently supported (all bits will be included).
+Prob084_ece241_2013_q12/Prob084_ece241_2013_q12_sample01.sv:23: sorry: constant selects in always_* processes are not currently supported (all bits will be included).
+Prob084_ece241_2013_q12/Prob084_ece241_2013_q12_sample01.sv:23: sorry: constant selects in always_* processes are not currently supported (all bits will be included).
+Prob084_ece241_2013_q12/Prob084_ece241_2013_q12_sample01.sv:23: sorry: constant selects in always_* processes are not currently supported (all bits will be included).
+Prob084_ece241_2013_q12/Prob084_ece241_2013_q12_sample01.sv:23: sorry: constant selects in always_* processes are not currently supported (all bits will be included).
+Prob084_ece241_2013_q12/Prob084_ece241_2013_q12_sample01.sv:23: sorry: constant selects in always_* processes are not currently supported (all bits will be included).
+Prob084_ece241_2013_q12/Prob084_ece241_2013_q12_sample01.sv:23: sorry: constant selects in always_* processes are not currently supported (all bits will be included).
+Prob084_ece241_2013_q12/Prob084_ece241_2013_q12_sample01.sv:23: sorry: constant selects in always_* processes are not currently supported (all bits will be included).
+VCD info: dumpfile wave.vcd opened for output.
+../dataset_code-complete-iccad2023/Prob084_ece241_2013_q12_test.sv:55: $finish called at 2650 (1ps)
+Hint: Output 'Z' has 263 mismatches. First mismatch occurred at time 40.
+Hint: Total mismatched samples is 263 out of 530 samples
+
+Simulation finished at 2650 ps
+Mismatches: 263 in 530 samples

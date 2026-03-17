@@ -1,0 +1,7 @@
+VCD info: dumpfile wave.vcd opened for output.
+../dataset_code-complete-iccad2023/Prob137_fsm_serial_test.sv:45: $finish called at 4526 (1ps)
+Hint: Output 'done' has 67 mismatches. First mismatch occurred at time 100.
+Hint: Total mismatched samples is 67 out of 905 samples
+
+Simulation finished at 4526 ps
+Mismatches: 67 in 905 samples

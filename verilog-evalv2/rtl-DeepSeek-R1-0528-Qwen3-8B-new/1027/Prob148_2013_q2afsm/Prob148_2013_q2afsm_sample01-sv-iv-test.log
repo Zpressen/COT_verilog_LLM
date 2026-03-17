@@ -1,0 +1,6 @@
+Prob148_2013_q2afsm/Prob148_2013_q2afsm_sample01.sv:10: error: Enumeration name A has an incorrectly sized constant.
+Prob148_2013_q2afsm/Prob148_2013_q2afsm_sample01.sv:10: error: Enumeration name B has an incorrectly sized constant.
+Prob148_2013_q2afsm/Prob148_2013_q2afsm_sample01.sv:10: error: Enumeration name C has an incorrectly sized constant.
+Prob148_2013_q2afsm/Prob148_2013_q2afsm_sample01.sv:10: error: Enumeration name D has an incorrectly sized constant.
+5 error(s) during elaboration.
+timeout: failed to run command ‘./Prob148_2013_q2afsm/Prob148_2013_q2afsm_sample01’: No such file or directory

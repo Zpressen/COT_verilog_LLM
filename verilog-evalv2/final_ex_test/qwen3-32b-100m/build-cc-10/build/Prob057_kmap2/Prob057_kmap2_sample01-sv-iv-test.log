@@ -1,0 +1,7 @@
+VCD info: dumpfile wave.vcd opened for output.
+../dataset_code-complete-iccad2023/Prob057_kmap2_test.sv:38: $finish called at 1161 (1ps)
+Hint: Output 'out' has 51 mismatches. First mismatch occurred at time 60.
+Hint: Total mismatched samples is 51 out of 232 samples
+
+Simulation finished at 1161 ps
+Mismatches: 51 in 232 samples

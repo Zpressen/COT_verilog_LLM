@@ -1,0 +1,6 @@
+Prob039_always_if/Prob039_always_if_sample01.sv:17: error: out_always is not a valid l-value in tb.top_module1.
+Prob039_always_if/Prob039_always_if_sample01.sv:8:      : out_always is declared here as wire.
+Prob039_always_if/Prob039_always_if_sample01.sv:19: error: out_always is not a valid l-value in tb.top_module1.
+Prob039_always_if/Prob039_always_if_sample01.sv:8:      : out_always is declared here as wire.
+2 error(s) during elaboration.
+timeout: failed to run command ‘./Prob039_always_if/Prob039_always_if_sample01’: No such file or directory

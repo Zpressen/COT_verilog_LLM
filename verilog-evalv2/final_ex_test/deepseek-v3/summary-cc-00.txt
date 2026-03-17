@@ -1,0 +1,168 @@
+
+Prob001_zero                  [01/01](100%)  0.11 .                       
+Prob002_m2014_q4i             [01/01](100%)  0.12 .                       
+Prob003_step_one              [01/01](100%)  0.12 .                       
+Prob004_vector2               [01/01](100%)  0.18 .                       
+Prob005_notgate               [01/01](100%)  0.11 .                       
+Prob006_vectorr               [01/01](100%)  0.16 .                       
+Prob007_wire                  [01/01](100%)  0.11 .                       
+Prob008_m2014_q4h             [01/01](100%)  0.12 .                       
+Prob009_popcount3             [01/01](100%)  0.15 .                       
+Prob010_mt2015_q4a            [01/01](100%)  0.12 .                       
+Prob011_norgate               [01/01](100%)  0.12 .                       
+Prob012_xnorgate              [01/01](100%)  0.12 .                       
+Prob013_m2014_q4e             [01/01](100%)  0.12 .                       
+Prob014_andgate               [01/01](100%)  0.11 .                       
+Prob015_vector1               [01/01](100%)  0.18 .                       
+Prob016_m2014_q4j             [01/01](100%)  0.30 .                       
+Prob017_mux2to1v              [01/01](100%)  0.15 .                       
+Prob018_mux256to1             [01/01](100%)  0.18 .                       
+Prob019_m2014_q4f             [01/01](100%)  0.16 .                       
+Prob020_mt2015_eq2            [01/01](100%)  0.18 .                       
+Prob021_mux256to1v            [01/01](100%)  0.20 .                       
+Prob022_mux2to1               [01/01](100%)  0.14 .                       
+Prob023_vector100r            [01/01](100%)  1.14 .                       
+Prob024_hadd                  [01/01](100%)  0.14 .                       
+Prob025_reduction             [01/01](100%)  0.18 .                       
+Prob026_alwaysblock1          [01/01](100%)  0.15 .                       
+Prob027_fadd                  [01/01](100%)  0.16 .                       
+Prob028_m2014_q4a             [01/01](100%)  0.13 .                       
+Prob029_m2014_q4g             [01/01](100%)  0.20 .                       
+Prob030_popcount255           [01/01](100%)  0.19 .                       
+Prob031_dff                   [01/01](100%)  0.13 .                       
+Prob032_vector0               [01/01](100%)  0.21 .                       
+Prob033_ece241_2014_q1c       [01/01](100%)  0.23 .                       
+Prob034_dff8                  [01/01](100%)  0.15 .                       
+Prob035_count1to10            [01/01](100%)  0.22 .                       
+Prob036_ringer                [01/01](100%)  0.23 .                       
+Prob037_review2015_count1k    [01/01](100%)  0.23 .                       
+Prob038_count15               [01/01](100%)  0.20 .                       
+Prob039_always_if             [01/01](100%)  0.25 .                       
+Prob040_count10               [01/01](100%)  0.23 .                       
+Prob041_dff8r                 [01/01](100%)  0.19 .                       
+Prob042_vector4               [01/01](100%)  0.29 .                       
+Prob043_vector5               [01/01](100%)  0.53 .                       
+Prob044_vectorgates           [01/01](100%)  0.26 .                       
+Prob045_edgedetect2           [01/01](100%)  0.21 .                       
+Prob046_dff8p                 [01/01](100%)  0.21 .                       
+Prob047_dff8ar                [01/01](100%)  0.20 .                       
+Prob048_m2014_q4c             [01/01](100%)  0.17 .                       
+Prob049_m2014_q4b             [01/01](100%)  0.17 .                       
+Prob050_kmap1                 [01/01](100%)  0.21 .                       
+Prob051_gates4                [01/01](100%)  0.21 .                       
+Prob052_gates100              [01/01](100%)  0.21 .                       
+Prob053_m2014_q4d             [00/01](  0%)  0.20 R                       
+Prob054_edgedetect            [01/01](100%)  0.21 .                       
+Prob055_conditional           [01/01](100%)  0.24 .                       
+Prob056_ece241_2013_q7        [01/01](100%)  0.25 .                       
+Prob057_kmap2                 [00/01](  0%)  0.25 R                       
+Prob058_alwaysblock2          [01/01](100%)  0.26 .                       
+Prob059_wire4                 [01/01](100%)  0.19 .                       
+Prob060_m2014_q4k             [01/01](100%)  0.20 .                       
+Prob061_2014_q4a              [01/01](100%)  0.23 .                       
+Prob062_bugs_mux2             [00/01](  0%)  0.22 R                       
+Prob063_review2015_shiftcount [01/01](100%)  0.28 .                       
+Prob064_vector3               [01/01](100%)  0.38 .                       
+Prob065_7420                  [01/01](100%)  0.26 .                       
+Prob066_edgecapture           [00/01](  0%)  0.25 R                       
+Prob067_countslow             [01/01](100%)  0.28 .                       
+Prob068_countbcd              [00/01](  0%)  0.49 w                       
+Prob069_truthtable1           [01/01](100%)  0.28 .                       
+Prob070_ece241_2013_q2        [00/01](  0%)  0.57 R                       
+Prob071_always_casez          [00/01](  0%)  0.33 R                       
+Prob072_thermostat            [01/01](100%)  0.35 .                       
+Prob073_dff16e                [01/01](100%)  0.33 .                       
+Prob074_ece241_2014_q4        [00/01](  0%)  0.48 w                       
+Prob075_counter_2bc           [01/01](100%)  0.36 .                       
+Prob076_always_case           [01/01](100%)  0.30 .                       
+Prob077_wire_decl             [01/01](100%)  0.33 .                       
+Prob078_dualedge              [01/01](100%)  0.26 .                       
+Prob079_fsm3onehot            [01/01](100%)  0.49 .                       
+Prob080_timer                 [01/01](100%)  0.41 .                       
+Prob081_7458                  [01/01](100%)  0.45 .                       
+Prob082_lfsr32                [00/01](  0%)  0.33 T                       
+Prob083_mt2015_q4b            [00/01](  0%)  0.41 R                       
+Prob084_ece241_2013_q12       [01/01](100%)  0.50 .                       
+Prob085_shift4                [01/01](100%)  0.35 .                       
+Prob086_lfsr5                 [00/01](  0%)  0.39 R                       
+Prob087_gates                 [01/01](100%)  0.34 .                       
+Prob088_ece241_2014_q5b       [01/01](100%)  0.42 .                       
+Prob089_ece241_2014_q5a       [00/01](  0%)  0.40 w                       
+Prob090_circuit1              [01/01](100%)  0.35 .                       
+Prob091_2012_q2b              [01/01](100%)  0.51 .                       
+Prob092_gatesv100             [01/01](100%)  0.51 .                       
+Prob093_ece241_2014_q3        [00/01](  0%)  0.46 R                       
+Prob094_gatesv                [01/01](100%)  0.64 .                       
+Prob095_review2015_fsmshift   [01/01](100%)  0.29 .                       
+Prob096_review2015_fsmseq     [01/01](100%)  0.46 .                       
+Prob097_mux9to1v              [01/01](100%)  0.35 .                       
+Prob098_circuit7              [01/01](100%)  0.38 .                       
+Prob099_m2014_q6c             [00/01](  0%)  0.69 R                       
+Prob100_fsm3comb              [01/01](100%)  0.47 .                       
+Prob101_circuit4              [00/01](  0%)  0.56 R                       
+Prob102_circuit3              [00/01](  0%)  0.45 R                       
+Prob103_circuit2              [00/01](  0%)  0.45 R                       
+Prob104_mt2015_muxdff         [00/01](  0%)  0.39 R                       
+Prob105_rotate100             [01/01](100%)  0.43 .                       
+Prob106_always_nolatches      [01/01](100%)  0.45 .                       
+Prob107_fsm1s                 [01/01](100%)  0.30 .                       
+Prob108_rule90                [01/01](100%)  0.45 .                       
+Prob109_fsm1                  [01/01](100%)  0.31 .                       
+Prob110_fsm2                  [01/01](100%)  0.36 .                       
+Prob111_fsm2s                 [01/01](100%)  0.34 .                       
+Prob112_always_case2          [01/01](100%)  0.32 .                       
+Prob113_2012_q1g              [00/01](  0%)  0.40 R                       
+Prob114_bugs_case             [01/01](100%)  0.56 .                       
+Prob115_shift18               [01/01](100%)  0.49 .                       
+Prob116_m2014_q3              [00/01](  0%)  0.35 R                       
+Prob117_circuit9              [01/01](100%)  0.41 .                       
+Prob118_history_shift         [01/01](100%)  0.49 .                       
+Prob119_fsm3                  [01/01](100%)  0.41 .                       
+Prob120_fsm3s                 [01/01](100%)  0.41 .                       
+Prob121_2014_q3bfsm           [01/01](100%)  0.47 .                       
+Prob122_kmap4                 [00/01](  0%)  0.28 R                       
+Prob123_bugs_addsubz          [01/01](100%)  0.35 .                       
+Prob124_rule110               [00/01](  0%)  0.67 R                       
+Prob125_kmap3                 [00/01](  0%)  0.62 R                       
+Prob126_circuit6              [01/01](100%)  0.47 .                       
+Prob127_lemmings1             [01/01](100%)  0.48 .                       
+Prob128_fsm_ps2               [00/01](  0%)  0.52 R                       
+Prob129_ece241_2013_q8        [01/01](100%)  0.43 .                       
+Prob130_circuit5              [01/01](100%)  0.57 .                       
+Prob131_mt2015_q4             [00/01](  0%)  0.78 m                       
+Prob132_always_if2            [01/01](100%)  0.33 .                       
+Prob133_2014_q3fsm            [00/01](  0%)  0.63 R                       
+Prob134_2014_q3c              [00/01](  0%)  0.46 R                       
+Prob135_m2014_q6b             [00/01](  0%)  0.45 R                       
+Prob136_m2014_q6              [00/01](  0%)  0.48 r                       
+Prob137_fsm_serial            [00/01](  0%)  0.59 w                       
+Prob138_2012_q2fsm            [01/01](100%)  0.58 .                       
+Prob139_2013_q2bfsm           [00/01](  0%)  0.87 R                       
+Prob140_fsm_hdlc              [00/01](  0%)  0.92 w                       
+Prob141_count_clock           [00/01](  0%)  0.78 T                       
+Prob142_lemmings2             [01/01](100%)  0.80 .                       
+Prob143_fsm_onehot            [00/01](  0%)  0.87 R                       
+Prob144_conwaylife            [01/01](100%)  0.93 .                       
+Prob145_circuit8              [00/01](  0%)  0.93 R                       
+Prob146_fsm_serialdata        [00/01](  0%)  0.72 R                       
+Prob147_circuit10             [00/01](  0%)  0.83 R                       
+Prob148_2013_q2afsm           [01/01](100%)  0.96 .                       
+Prob149_ece241_2013_q4        [00/01](  0%)  1.17 R                       
+Prob150_review2015_fsmonehot  [00/01](  0%)  0.98 R                       
+Prob151_review2015_fsm        [00/01](  0%)  0.87 R                       
+Prob152_lemmings3             [00/01](  0%)  1.03 R                       
+Prob153_gshare                [01/01](100%)  1.12 .                       
+Prob154_fsm_ps2data           [00/01](  0%)  1.25 R                       
+Prob155_lemmings4             [00/01](  0%)  1.52 R                       
+Prob156_review2015_fancytimer [00/01](  0%)  1.32 T                       
+
+pass_rate             =      71.79
+avg_gini_simpson_idx  =       0.00
+total_prompt_tokens   =      41138
+total_resp_tokens     =      22098
+total_tokens          =      63236
+avg_tokens_per_prompt =     263.71
+avg_tokens_per_resp   =     141.65
+avg_tokens_per_query  =     405.36
+total_cost            =       0.00
+

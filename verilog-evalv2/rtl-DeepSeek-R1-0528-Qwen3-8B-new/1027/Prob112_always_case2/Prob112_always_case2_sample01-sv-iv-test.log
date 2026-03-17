@@ -1,0 +1,7 @@
+VCD info: dumpfile wave.vcd opened for output.
+../dataset_spec-to-rtl/Prob112_always_case2_test.sv:38: $finish called at 470 (1ps)
+Hint: Output 'pos' has 20 mismatches. First mismatch occurred at time 120.
+Hint: Total mismatched samples is 20 out of 94 samples
+
+Simulation finished at 470 ps
+Mismatches: 20 in 94 samples

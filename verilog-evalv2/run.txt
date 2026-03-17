@@ -1,0 +1,1 @@
+../configure --with-task=spec-to-rtl \  --with-model=local-gradio-gemma3-27b \  --with-examples=4 \  --with-samples=20 \  --with-temperature=0.85 \  --with-top-p=0.95
