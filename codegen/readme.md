@@ -1,0 +1,22 @@
+conda activate verilog-study
+modelscope login --token ms-594fb02f-4a74-4007-bad7-8da7a8b6b93e
+上传数据集：
+modelscope upload chipcot/chipdata dataset_complete/completed_cot_agent_dataset.json --repo-type dataset   
+
+remove_think.py 将原数据中的think移除
+eda3.py 设置了多线程的agent生成数据框架
+merge_data.py 将多个json文件中的think合并到output中并输出为一个统一的文件
+clear_input.py 将数据集里面input项置空。
+token_count.py 计算整个数据集的token数分布
+remove_header.py  移除module前面的信息部分
+filter_code_samples.py 统计筛选指定token数的数据
+copy_output_to_input.py 将output里面的内容放到input里面
+check.py 筛选token数<4k的数据
+merge_clean_think.py 将output中思维链移除，只保留代码。再将这两个数据集合并成一个
+
+formal_agent_dataset.json 第一批完整的30M的优质数据，从70m的completed_cot_agent_dataset.json筛选出来
+formal_agent_dataset2.json 正确格式的第二批数据
+formal_agent_dataset3.json 从正确格式的formal_agent_dataset2.json筛选，并调整为错误格式
+formal_agent_dataset4.json 从错误格式的formal_agent_dataset3.json筛选，尽可能减少短代码
+formal_agent_dataset5.json 从正确格式的formal_agent_dataset2.json筛选, 尽可能减少短代码
+no_cot_dataset.json 将formal_agent_dataset和formal_agent_dataset5中的cot移除
