@@ -1,0 +1,9 @@
+{
+  "total_samples": 9855,
+  "think_tokens_sum": 15339912,
+  "code_tokens_sum": 7568875,
+  "output_tokens_sum": 22948519,
+  "think_tokens_avg": 1556.5613394216134,
+  "code_tokens_avg": 768.0238457635718,
+  "output_tokens_avg": 2328.616844241502
+}
