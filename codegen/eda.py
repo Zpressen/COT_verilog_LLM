@@ -8,7 +8,7 @@ load_dotenv()
 
 llm_config = {
     'model': "deepseek-chat",
-    'api_key': "sk-e912f0d4808342869d846ee83d3ac7c5",
+    'api_key': "",
     'base_url': "https://api.deepseek.com/v1"
     }
 

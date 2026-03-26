@@ -1,4 +1,4 @@
-model_name_or_path: /home/tanhao/gemma-3-27b-it
+model_name_or_path: /home/gemma-3-27b-it
 template: gemma
 infer_backend: vllm  # choices: [huggingface, vllm, sglang]
 trust_remote_code: true

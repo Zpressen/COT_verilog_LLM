@@ -8,7 +8,7 @@ import re
 # 配置DeepSeek API
 llm_config = {
     'model': "deepseek-chat",
-    'api_key': "sk-69b2599638a24105962d6b186788d6ce",
+    'api_key': "",
     'base_url': "https://api.deepseek.com/v1"
 }
 

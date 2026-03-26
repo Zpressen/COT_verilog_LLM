@@ -1,4 +1,4 @@
-model_name_or_path: /home/tanhao/merged-lora-Qwen3-30B-A3B-Thinking-2507-0922
+model_name_or_path: /home/merged-lora-Qwen3-30B-A3B-Thinking-2507-0922
 template: qwen3
 infer_backend: vllm  # choices: [huggingface, vllm, sglang]
 trust_remote_code: true

@@ -2,9 +2,9 @@ import json
 import re
 
 # ===== 配置部分 =====
-file1 = "/home/tanhao/codegen/dataset_complete/train_dataset/formal_agent_dataset.json"   # 第一个文件
-file2 = "/home/tanhao/codegen/dataset_complete/train_dataset/formal_agent_dataset5.json"       # 第二个文件
-output_file = "/home/tanhao/codegen/dataset_complete/train_dataset/no_cot_dataset.json"
+file1 = "/home/codegen/dataset_complete/train_dataset/formal_agent_dataset.json"   # 第一个文件
+file2 = "/home/codegen/dataset_complete/train_dataset/formal_agent_dataset5.json"       # 第二个文件
+output_file = "/home/codegen/dataset_complete/train_dataset/no_cot_dataset.json"
 
 # ===== 函数：清理 <think> 标签 =====
 def clean_think(text: str) -> str:

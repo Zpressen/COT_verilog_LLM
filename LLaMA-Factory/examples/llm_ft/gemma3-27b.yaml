@@ -1,5 +1,5 @@
 ### model
-model_name_or_path: /home/tanhao/gemma-3-27b-it
+model_name_or_path: /home/gemma-3-27b-it
 trust_remote_code: true
 
 ### method
@@ -22,7 +22,7 @@ preprocessing_num_workers: 32
 dataloader_num_workers: 32
 
 ### output
-output_dir: /home/tanhao/project1/src/checkpoints_gemma3_27b/gemma-3-27b-it-0810
+output_dir: /home/project1/src/checkpoints_gemma3_27b/gemma-3-27b-it-0810
 logging_steps: 10
 save_steps: 500
 plot_loss: true

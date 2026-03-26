@@ -1,5 +1,5 @@
 ### model
-model_name_or_path: /home/tanhao/Qwen3-30B-A3B-Thinking-2507
+model_name_or_path: 
 trust_remote_code: true
 
 ### method
@@ -22,7 +22,7 @@ preprocessing_num_workers: 32
 dataloader_num_workers: 32
 
 ### output
-output_dir: /home/tanhao/project1/src/checkpoints_qwen3-30B-A3B-thinking-2507/qwen-0922
+output_dir: 
 logging_steps: 10
 save_steps: 500
 plot_loss: true

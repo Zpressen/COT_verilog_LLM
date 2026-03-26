@@ -1,20 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-filter_code_by_length_json.py
-
-规则：
-- 仅处理 JSON（保持原结构：顶层数组 / 含 data/items 的字典 / 单条对象）。
-- 以 output 的“空白分词”数量作为 token 近似计数。
-- token < 100           -> 随机保留 30%，其余丢弃
-- 100 <= token <= 300   -> 全部保留
-- token > 300           -> 随机保留 50%，其余丢弃
-- 输出：
-  1) 过滤后数据（保持原结构）
-  2) 被丢弃样本集合（JSON 数组）
-- 控制台打印各区间保留/丢弃统计与总计。
-
-如需更精确的 tokenizer，可把 token_count_simple 替换为你的 BPE/模型分词器。
 """
 
 import json

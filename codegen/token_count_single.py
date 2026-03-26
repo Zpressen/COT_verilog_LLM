@@ -12,8 +12,8 @@ from statistics import mean, median, pstdev
 from transformers import AutoTokenizer
 
 # ====== 配置 ======
-merged_file_path = '/home/tanhao/codegen/process_dataset/verilog_descriptions_1n2_filter.json'
-llm_model_path   = '/home/tanhao/.cache/huggingface/hub/models--Qwen--Qwen3-0.6B/snapshots/e6de91484c29aa9480d55605af694f39b081c455'
+merged_file_path = ''
+llm_model_path   = ''
 
 # 选择要统计的字段，可改为 'input'、'instruction' 或 'output'
 target_field = 'input'

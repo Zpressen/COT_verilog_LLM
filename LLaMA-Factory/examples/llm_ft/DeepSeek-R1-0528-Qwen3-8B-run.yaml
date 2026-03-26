@@ -1,5 +1,5 @@
 ### model
-model_name_or_path: /home/tanhao/.cache/huggingface/hub/models--deepseek-ai--DeepSeek-R1-0528-Qwen3-8B/snapshots/6e8885a6ff5c1dc5201574c8fd700323f23c25fa
+model_name_or_path: /home/.cache/huggingface/hub/models--deepseek-ai--DeepSeek-R1-0528-Qwen3-8B/snapshots/6e8885a6ff5c1dc5201574c8fd700323f23c25fa
 trust_remote_code: true
 
 ### method
@@ -21,7 +21,7 @@ overwrite_cache: true
 preprocessing_num_workers: 32
 
 ### output
-output_dir: /home/tanhao/project1/src/checkpoints_DeepSeek-R1-0528-Qwen3-8B-verilog/deepseek-1113
+output_dir: /home/project1/src/checkpoints_DeepSeek-R1-0528-Qwen3-8B-verilog/deepseek-1113
 logging_steps: 5
 save_steps: 500
 plot_loss: true

@@ -13,8 +13,8 @@ from transformers import AutoTokenizer
 
 # ======= 配置区 =======
 DATASETS = [
-    "/home/tanhao/codegen/dataset_complete/train_dataset/formal_agent_dataset.json",  # 改为你的第一个数据集路径
-    "/home/tanhao/codegen/dataset_complete/train_dataset/formal_agent_dataset5.json",  # 改为你的第二个数据集路径
+    "/home/codegen/dataset_complete/train_dataset/formal_agent_dataset.json",  # 改为你的第一个数据集路径
+    "/home/codegen/dataset_complete/train_dataset/formal_agent_dataset5.json",  # 改为你的第二个数据集路径
 ]
 # 你的本地分词器路径（与 token_count.py 相同）
 TOKENIZER_PATH = "/home/tanhao/.cache/huggingface/hub/models--Qwen--Qwen3-0.6B/snapshots/e6de91484c29aa9480d55605af694f39b081c455"

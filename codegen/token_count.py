@@ -17,8 +17,8 @@ from typing import List, Dict, Any, Tuple
 from transformers import AutoTokenizer
 
 # ====== 路径与配置 ======
-merged_file_path = 'dataset_complete/train_dataset/formal_agent_dataset5.json'
-llm_model_path   = '/home/tanhao/.cache/huggingface/hub/models--Qwen--Qwen3-0.6B/snapshots/e6de91484c29aa9480d55605af694f39b081c455'
+merged_file_path = ''
+llm_model_path   = ''
 
 # 是否导出结果文件
 save_per_entry_csv = False

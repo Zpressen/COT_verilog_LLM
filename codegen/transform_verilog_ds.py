@@ -16,8 +16,8 @@ from pathlib import Path
 # =====================
 #  直接在这里修改路径
 # =====================
-INPUT_FILE = Path("data_new/verilog_descriptions_6_cc.json")          # 原始 JSON 文件
-OUTPUT_FILE = Path("data_new/verilog_descriptions_6_cc_converted.json")   # 输出文件
+INPUT_FILE = Path("")          # 原始 JSON 文件
+OUTPUT_FILE = Path("")   # 输出文件
 MAX_TOKENS = 3500                           # 最大 token 限制
 
 

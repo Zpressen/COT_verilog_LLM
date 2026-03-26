@@ -1,5 +1,5 @@
-model_name_or_path: /home/tanhao/gemma-3-27b-it
-adapter_name_or_path: /home/tanhao/project1/src/checkpoints_gemma3_27b/checkpoint-219-0806
+model_name_or_path: /home/gemma-3-27b-it
+adapter_name_or_path: /home/project1/src/checkpoints_gemma3_27b/checkpoint-219-0806
 template: gemma
 infer_backend: vllm  # choices: [huggingface, vllm, sglang]
 trust_remote_code: true
