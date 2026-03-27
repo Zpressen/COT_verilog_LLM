@@ -170,7 +170,7 @@ def generate_for_designs(
         top_p=top_p,
         max_tokens=15000,
         openai_api_base="https://dashscope.aliyuncs.com/compatible-mode/v1",
-        openai_api_key="sk-f77691082dbd41c4b3db7137991c041d",
+        openai_api_key="",
         extra_body={"enable_thinking": True}
     )
     # llm = ChatOpenAI(

@@ -382,7 +382,7 @@ def main():
         openai_api_key="no",
       )
     elif model == "DeepSeek-R1-0528-Qwen3-8B" or model.startswith("ep-"):  # Handle name or endpoint ID
-      api_key = "sk_epGPtnfebnrWU4tsuxtdFvw2AVXOt3_lr2uGBqhn14s"
+      api_key = ""
       if not api_key:
         raise ValueError(
           "ARK_API_KEY environment variable is not set. Obtain it from Volcano Ark console: https://console.volcengine.com/ark/apiKey")
